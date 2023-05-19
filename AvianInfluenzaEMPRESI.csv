@@ -1,0 +1,1056 @@
+Event ID,Disease,Serotype,latitude,longitude,Locality,Country,Region,observation_date,report_date,Species,Diagnosis Source,Humans Affected,Human Deaths,Diagnosis Status
+350488,Influenza - Avian,;H5N1 HPAI;,-20.787022,-65.714583,COTAGAITA_IRICCINA,Bolivia,Americas,2023-02-19T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352355,Influenza - Avian,;H5 HPAI;,-26,30.4,HPAI_H5_W_2023_004,South Africa,Africa,2023-03-14T00:00:00Z,2023-05-04T00:00:00Z,"Environmental sample,Unspecified bird,",OIE,,,Confirmed
+348598,Influenza - Avian,;H5N1 HPAI;,47.185,8.275,BALDEGGERSEE,Switzerland,Europe,2023-03-03T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348929,Influenza - Avian,;H5N1 HPAI;,47.054,8.315,VIERWALDSTÄTTERSEE,Switzerland,Europe,2023-03-14T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348602,Influenza - Avian,;H5N1 HPAI;,46.99,6.933,LAC DE NEUCHÂTEL,Switzerland,Europe,2023-03-02T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348597,Influenza - Avian,;H5N1 HPAI;,46.966,6.873,LAC DE NEUCHÂTEL,Switzerland,Europe,2023-03-03T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348588,Influenza - Avian,;H5N1 HPAI;,46.996,6.952,LAC DE NEUCHÂTEL,Switzerland,Europe,2023-03-07T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348940,Influenza - Avian,;H5N1 HPAI;,46.939,6.852,LAC DE NEUCHÂTEL,Switzerland,Europe,2023-03-09T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350475,Influenza - Avian,;H5N1 HPAI;,47.01,6.985,LAC DE NEUCHÂTEL,Switzerland,Europe,2023-03-27T00:00:00Z,2023-04-06T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348930,Influenza - Avian,;H5N1 HPAI;,46.97,6.873,LAC DE NEUCHÂTEL,Switzerland,Europe,2023-03-13T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348931,Influenza - Avian,;H5N1 HPAI;,46.981,6.903,LAC DE NEUCHÂTEL,Switzerland,Europe,2023-03-13T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350892,Influenza - Avian,;H5N1 HPAI;,49.00751,14.44073,VRBENSKÉ RYBNÍKY,Czech Republic,Europe,2023-04-05T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352481,Influenza - Avian,;H5N1 HPAI;,48.86712,16.92336,NOVÝ PODVOROV,Czech Republic,Europe,2023-04-24T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+350470,Influenza - Avian,;H5N1 HPAI;,48.82991,16.46443,Jevišovka,Czech Republic,Europe,2023-03-20T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+350893,Influenza - Avian,;H5N1 HPAI;,49.35412,17.3697,CHROPYN ,Czech Republic,Europe,2023-04-05T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350894,Influenza - Avian,;H5N1 HPAI;,48.89306,17.0559,MUT NICE,Czech Republic,Europe,2023-04-03T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348594,Influenza - Avian,;H5N1 HPAI;,47.6969,8.6304,SCHAFFHAUSEN,Switzerland,Europe,2023-03-04T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348942,Influenza - Avian,;H5N1 HPAI;,47.195,8.851,LACHEN,Switzerland,Europe,2023-03-08T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352480,Influenza - Avian,;H5N1 HPAI;,50.47021,14.37475,ŠT TÍ,Czech Republic,Europe,2023-05-03T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352039,Influenza - Avian,;H5N1 HPAI;,50.4495,14.33285,RA ICE,Czech Republic,Europe,2023-04-12T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352482,Influenza - Avian,;H5N1 HPAI;,49.87921,18.33005,VRBICE HE MANICKÝ RYBNÍK,Czech Republic,Europe,2023-04-24T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352483,Influenza - Avian,;H5N1 HPAI;,49.86427,18.38799,RYCHVALD,Czech Republic,Europe,2023-04-24T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352038,Influenza - Avian,;H5N1 HPAI;,49.41883,17.32412,TROUBKY,Czech Republic,Europe,2023-04-18T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352348,Influenza - Avian,;H5N1 HPAI;,49.85089,18.40207,Rychvald,Czech Republic,Europe,2023-04-30T00:00:00Z,2023-05-02T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+350636,Influenza - Avian,;H5N1 HPAI;,13.2291,-16.6714,Tanji,Gambia,Africa,2023-03-31T00:00:00Z,2023-04-08T00:00:00Z,"Wild,Grey headed gull (Chroicocephalus cirrocephalus),Wild,Caspian gull (Larus cachinnans),Wild,Royal tern,",OIE,,,Confirmed
+348592,Influenza - Avian,;H5N1 HPAI;,47.648,9.194,KREUZLINGEN,Switzerland,Europe,2023-03-04T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348591,Influenza - Avian,;H5N1 HPAI;,47.623,9.27,ALTNAU,Switzerland,Europe,2023-03-06T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348600,Influenza - Avian,;H5N1 HPAI;,47.674,9.085,ERMATINGEN,Switzerland,Europe,2023-03-02T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348601,Influenza - Avian,;H5N1 HPAI;,47.66,8.855,STEIN AM RHEIN,Switzerland,Europe,2023-03-02T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350402,Influenza - Avian,;H5N1 HPAI;,47.651,8.894,ÖHNINGEN,Switzerland,Europe,2023-03-20T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350399,Influenza - Avian,;H5N1 HPAI;,47.6693,9.1665,KONSTANZ,Switzerland,Europe,2023-03-20T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350616,Influenza - Avian,;H5N1 HPAI;,22.422,106.443,Thach An,Viet Nam,Asia,,2023-03-29T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+349339,Influenza - Avian,;H5N1 HPAI;,49.87087,13.99635,Libomyšl,Czech Republic,Europe,2023-03-22T00:00:00Z,2023-03-27T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350468,Influenza - Avian,;H5N1 HPAI;,50.4123,14.99436,Židn ves,Czech Republic,Europe,2023-04-04T00:00:00Z,2023-04-05T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350469,Influenza - Avian,;H5N1 HPAI;,50.27321,14.1462,Hobšovický rybník,Czech Republic,Europe,2023-04-03T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350617,Influenza - Avian,,9.095,104.968,Tran Van Thoi,Viet Nam,Asia,,2023-04-07T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+350619,Influenza - Avian,,9.192,105.132,Ca Mau,Viet Nam,Asia,,2023-04-07T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+350620,Influenza - Avian,,9.355,105.085,Thoi Binh,Viet Nam,Asia,,2023-04-07T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+350618,Influenza - Avian,,9.408,104.963,U Minh,Viet Nam,Asia,,2023-04-07T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+352037,Influenza - Avian,;H5N1 HPAI;,50.10743,15.85629,BOHUMILE ,Czech Republic,Europe,2023-04-24T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348939,Influenza - Avian,;H5N1 HPAI;,46.856,6.732,CONSICE,Switzerland,Europe,2023-03-09T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348599,Influenza - Avian,;H5N1 HPAI;,46.504,6.642,LAC LÉMAN,Switzerland,Europe,2023-03-02T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348941,Influenza - Avian,;H5N1 HPAI;,46.805,6.641,LAC DE NEUCHÂTEL,Switzerland,Europe,2023-03-08T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348596,Influenza - Avian,;H5N1 HPAI;,46.456,6.8517,LAC LÉMAN,Switzerland,Europe,2023-03-03T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348593,Influenza - Avian,;H5N1 HPAI;,46.499,6.692,LAC LÉMAN,Switzerland,Europe,2023-03-05T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348935,Influenza - Avian,;H5N1 HPAI;,46.534,6.577,CHAVANNES-PRÈS-RENENS,Switzerland,Europe,2023-03-10T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348584,Influenza - Avian,;H5N1 HPAI;,47.235,8.675,WÄDENSWIL,Switzerland,Europe,2023-03-07T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348581,Influenza - Avian,;H5N1 HPAI;,47.382,8.539,ZÜRICH,Switzerland,Europe,2023-03-08T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348933,Influenza - Avian,;H5N1 HPAI;,47.238,8.723,STÄFA,Switzerland,Europe,2023-03-10T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348922,Influenza - Avian,;H5N1 HPAI;,47.313,8.578,ZÜRICHSEE,Switzerland,Europe,2023-03-14T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348587,Influenza - Avian,;H5N1 HPAI;,47.316,8.577,KÜSNACHT,Switzerland,Europe,2023-03-07T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348919,Influenza - Avian,;H5N1 HPAI;,47.309,8.582,ZÜRICHSEE,Switzerland,Europe,2023-03-14T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348583,Influenza - Avian,;H5N1 HPAI;,47.23,8.674,WÄDENSWIL,Switzerland,Europe,2023-03-07T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350474,Influenza - Avian,;H5N1 HPAI;,47.387,8.532,ZÜRICH,Switzerland,Europe,2023-03-27T00:00:00Z,2023-04-06T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348923,Influenza - Avian,;H5N1 HPAI;,47.362,8.681,GREIFENSEE,Switzerland,Europe,2023-03-14T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348586,Influenza - Avian,;H5N1 HPAI;,47.308,8.571,RÜSCHLIKON,Switzerland,Europe,2023-03-07T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350476,Influenza - Avian,;H5N1 HPAI;,47.324,8.576,ZÜRICHSEE,Switzerland,Europe,2023-03-25T00:00:00Z,2023-04-06T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348926,Influenza - Avian,;H5N1 HPAI;,47.365,8.68,GREIFENSEE,Switzerland,Europe,2023-03-14T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349162,Influenza - Avian,;H5N1 HPAI;,47.387,8.75,Fehraltorf,Switzerland,Europe,2023-03-19T00:00:00Z,2023-03-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348937,Influenza - Avian,;H5N1 HPAI;,47.337,8.698,GREIFENSEE,Switzerland,Europe,2023-03-09T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348927,Influenza - Avian,;H5N1 HPAI;,47.263,8.656,ZÜRICHSEE,Switzerland,Europe,2023-03-14T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Great crested grebe (Podiceps cristatus),",OIE,,,Confirmed
+348582,Influenza - Avian,;H5N1 HPAI;,47.361,8.547,ZÜRICH,Switzerland,Europe,2023-03-08T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348579,Influenza - Avian,;H5N1 HPAI;,47.374,8.542,ZÜRICH,Switzerland,Europe,2023-02-24T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348934,Influenza - Avian,;H5N1 HPAI;,47.387,8.532,ZÜRICH,Switzerland,Europe,2023-03-10T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348590,Influenza - Avian,;H5N1 HPAI;,47.386,8.532,ZÜRICH,Switzerland,Europe,2023-03-06T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348917,Influenza - Avian,;H5N1 HPAI;,47.36,8.706,USTER,Switzerland,Europe,2023-03-15T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Stork,",OIE,,,Confirmed
+348920,Influenza - Avian,;H5N1 HPAI;,47.289,8.574,THALWIL,Switzerland,Europe,2023-03-14T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348938,Influenza - Avian,;H5N1 HPAI;,47.337,8.697,GREIFENSEE,Switzerland,Europe,2023-03-09T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348936,Influenza - Avian,;H5N1 HPAI;,47.6969,8.6306,SCHAFFHAUSEN,Switzerland,Europe,2023-03-10T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Caspian gull (Larus cachinnans),",OIE,,,Confirmed
+348921,Influenza - Avian,;H5N1 HPAI;,47.274,8.583,OBERRIEDEN,Switzerland,Europe,2023-03-14T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348595,Influenza - Avian,;H5N1 HPAI;,47.353,8.55,ZÜRICH,Switzerland,Europe,2023-03-03T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348585,Influenza - Avian,;H5N1 HPAI;,47.291,8.572,THALWIL,Switzerland,Europe,2023-03-07T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348924,Influenza - Avian,;H5N1 HPAI;,47.3,8.584,ZÜRICHSEE,Switzerland,Europe,2023-03-14T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348925,Influenza - Avian,;H5N1 HPAI;,47.353,8.71,USTER,Switzerland,Europe,2023-03-14T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350398,Influenza - Avian,;H5N1 HPAI;,49.01,8.3,KARLSRUHE,Germany,Europe,2023-03-24T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+350407,Influenza - Avian,;H5N1 HPAI;,48.98,10.23,ELLENBERG,Germany,Europe,2023-03-10T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+351895,Influenza - Avian,;H5N1 HPAI;,47.79,9.32,SALEM,Germany,Europe,2023-03-31T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+353034,Influenza - Avian,;H5N1 HPAI;,47.58963,9.549072,LANGENARGEN,Germany,Europe,2023-04-21T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350401,Influenza - Avian,;H5N1 HPAI;,49.41,8.74,HEIDELBERG,Germany,Europe,2023-03-14T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350404,Influenza - Avian,;H5N1 HPAI;,47.79,9.1,SIPPLINGEN,Germany,Europe,2023-03-22T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+353033,Influenza - Avian,;H5N1 HPAI;,47.666577,9.41721,FRIEDRICHSHAFEN,Germany,Europe,2023-04-21T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+353031,Influenza - Avian,;H5N1 HPAI;,48.21,9.84,LAUPHEIM,Germany,Europe,2023-05-02T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+351896,Influenza - Avian,;H5N1 HPAI;,47.66,9.36,IMMENSTAAD AM BODENSEE,Germany,Europe,2023-03-31T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+351899,Influenza - Avian,;H5N1 HPAI;,47.673,9.316,HAGNAU AM BODENSEE,Germany,Europe,2023-03-31T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350408,Influenza - Avian,;H5N1 HPAI;,49.52,8.47,MANNHEIM,Germany,Europe,2023-03-14T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+350406,Influenza - Avian,;H5N1 HPAI;,48.96,10.22,ELLWANGEN (JAGST),Germany,Europe,2023-03-14T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Ardeidae (unspecified),",OIE,,,Confirmed
+351897,Influenza - Avian,;H5N1 HPAI;,47.58,9.58,KRESSBRONN AM BODENSEE,Germany,Europe,2023-03-31T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+351894,Influenza - Avian,;H5N1 HPAI;,47.72,8.99,RADOLFZELL AM BODENSEE,Germany,Europe,2023-04-05T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+353032,Influenza - Avian,;H5N1 HPAI;,48.03,9.64,BAD SCHUSSENRIED,Germany,Europe,2023-04-24T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350642,Influenza - Avian,;H5N1 HPAI;,49.06,9.89,Obersontheim,Germany,Europe,2023-04-06T00:00:00Z,2023-04-11T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+353035,Influenza - Avian,;H5N1 HPAI;,48.2,10.06,DIETENHEIM,Germany,Europe,2023-04-21T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350405,Influenza - Avian,;H5N1 HPAI;,47.650271,9.475564,FRIEDRICHSHAFEN,Germany,Europe,2023-02-22T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350400,Influenza - Avian,;H5N1 HPAI;,49.38,8.81,NECKARGEMÜND,Germany,Europe,2023-03-27T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+351898,Influenza - Avian,;H5N1 HPAI;,47.658,9.428,FRIEDRICHSHAFEN,Germany,Europe,2023-03-31T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350403,Influenza - Avian,;H5N1 HPAI;,47.66,9.36,IMMENSTAAD AM BODENSEE,Germany,Europe,2023-03-22T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+353030,Influenza - Avian,;H5N1 HPAI;,48.07,9.61,BAD BUCHAU,Germany,Europe,2023-05-03T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350410,Influenza - Avian,;H5N1 HPAI;,49.21,12.09,TEUBLITZ,Germany,Europe,2023-03-22T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+352473,Influenza - Avian,;H5N1 HPAI;,48.717,13.069,WINZER,Germany,Europe,2023-03-29T00:00:00Z,2023-05-04T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+349786,Influenza - Avian,;H5N1 HPAI;,48.63,12.45,DINGOLFING,Germany,Europe,2023-03-08T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Swan,Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+352471,Influenza - Avian,;H5N1 HPAI;,48.36,10.04,NEU-ULM,Germany,Europe,2023-04-17T00:00:00Z,2023-05-04T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349778,Influenza - Avian,;H5N1 HPAI;,49.16,11.95,KALLMÜNZ,Germany,Europe,2023-03-24T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+350412,Influenza - Avian,;H5N1 HPAI;,48.427,11.618,ALLERSHAUSEN,Germany,Europe,2023-03-01T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+352475,Influenza - Avian,;H5N1 HPAI;,49.288,12.161,STEINBERG,Germany,Europe,2023-04-06T00:00:00Z,2023-05-04T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349779,Influenza - Avian,;H5N1 HPAI;,49.29,10.85,NEUENDETTELSAU,Germany,Europe,2023-03-19T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+352472,Influenza - Avian,;H5N1 HPAI;,47.551,9.6898,LINDAU (BODENSEE),Germany,Europe,2023-04-17T00:00:00Z,2023-05-04T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349787,Influenza - Avian,;H5N1 HPAI;,48.56,12.17,ERGOLDING,Germany,Europe,2023-03-07T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+352477,Influenza - Avian,;H5N1 HPAI;,48.6,12.29,ESSENBACH,Germany,Europe,2023-03-30T00:00:00Z,2023-05-04T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+350409,Influenza - Avian,;H5N1 HPAI;,49.21,12.04,BURGLENGENFELD,Germany,Europe,2023-03-22T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+349784,Influenza - Avian,;H5N1 HPAI;,48.06,11.52,PULLACH I. ISARTAL,Germany,Europe,2023-03-15T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Swan,",OIE,,,Confirmed
+349782,Influenza - Avian,;H5N1 HPAI;,49.288,12.16,STEINBERG,Germany,Europe,2023-03-13T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+349781,Influenza - Avian,;H5N1 HPAI;,48.65,11.95,PFEFFENHAUSEN,Germany,Europe,2023-03-07T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+352474,Influenza - Avian,;H5N1 HPAI;,49.29,12.1,SCHWANDORF,Germany,Europe,2023-04-06T00:00:00Z,2023-05-04T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349780,Influenza - Avian,;H5N1 HPAI;,48.42,12.94,PFARRKIRCHEN,Germany,Europe,2023-03-06T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+352470,Influenza - Avian,;H5N1 HPAI;,49.22,12.69,CHAM,Germany,Europe,2023-04-17T00:00:00Z,2023-05-04T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349783,Influenza - Avian,;H5N1 HPAI;,49.22,12.06,TEUBLITZ,Germany,Europe,2023-03-21T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+352468,Influenza - Avian,;H5N1 HPAI;,48.24,12.68,NEUÖTTING,Germany,Europe,2023-04-18T00:00:00Z,2023-05-04T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+352469,Influenza - Avian,;H5N1 HPAI;,49.25,12.77,WEIDING,Germany,Europe,2023-04-17T00:00:00Z,2023-05-04T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+352476,Influenza - Avian,;H5N1 HPAI;,48.71,13.07,OSTERHOFEN,Germany,Europe,2023-03-31T00:00:00Z,2023-05-04T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+350411,Influenza - Avian,;H5N1 HPAI;,47.5495,9.7035,LINDAU (BODENSEE),Germany,Europe,2023-03-30T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+352467,Influenza - Avian,;H5N1 HPAI;,48.92,12.51,KIRCHROTH,Germany,Europe,2023-04-24T00:00:00Z,2023-05-04T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350413,Influenza - Avian,;H5N1 HPAI;,52.58,13.27,Berlin,Germany,Europe,,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349788,Influenza - Avian,;H5N1 HPAI;,51.649,14.377,Neuhausen/Spree,Germany,Europe,2023-03-16T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+351902,Influenza - Avian,;H5N1 HPAI;,51.62,14.38,SPREMBERG,Germany,Europe,2023-03-29T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Accipitridae (unidentified):Accipitridae (incognita)(Accipitridae),",OIE,,,Confirmed
+351900,Influenza - Avian,;H5N1 HPAI;,51.82,14.48,TEICHLAND,Germany,Europe,2023-04-21T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+351901,Influenza - Avian,;H5N1 HPAI;,52.11,12.45,WIESENBURG/MARK,Germany,Europe,2023-04-06T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349153,Influenza - Avian,;H5N1 HPAI;,45.282232,19.815945,MONI SAD,Serbia,Europe,2023-03-23T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349154,Influenza - Avian,;H5N1 HPAI;,45.2264,19.8261,Novi Sad,Serbia,Europe,2023-03-23T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349789,Influenza - Avian,;H5N1 HPAI;,53.6,10.05,Hamburg,Germany,Europe,2023-03-16T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+351903,Influenza - Avian,;H5N1 HPAI;,53.54,9.96,Hamburg,Germany,Europe,2023-03-31T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350471,Influenza - Avian,;H5N1 HPAI;,53.52,10.05,Hamburg,Germany,Europe,2023-03-28T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+352284,Influenza - Avian,;H5N1 HPAI;,54,11.54,BOIENSDORF,Germany,Europe,2023-04-01T00:00:00Z,2023-05-02T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+353029,Influenza - Avian,;H5N1 HPAI;,54.17,13.33,Mesekenhagen,Germany,Europe,2023-04-26T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Swan,",OIE,,,Confirmed
+352283,Influenza - Avian,;H5N1 HPAI;,54.41,13.52,BERGEN AUF RÜGEN,Germany,Europe,2023-04-06T00:00:00Z,2023-05-02T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+353028,Influenza - Avian,;H5N1 HPAI;,53.59,7.2,NORDEN,Germany,Europe,2023-03-24T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+352281,Influenza - Avian,;H5N1 HPAI;,52.1,9.35,HAMELN,Germany,Europe,2023-02-28T00:00:00Z,2023-05-02T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+352282,Influenza - Avian,;H5N1 HPAI;,52.43,9.32,HAGENBURG,Germany,Europe,2023-02-28T00:00:00Z,2023-05-02T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+352279,Influenza - Avian,;H5N1 HPAI;,52.93,9.23,VERDEN,Germany,Europe,2023-02-28T00:00:00Z,2023-05-02T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+347186,Influenza - Avian,;H5N1 HPAI;,53.66,8.55,Wurster Nordseeküste,Germany,Europe,2023-02-18T00:00:00Z,2023-02-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+353027,Influenza - Avian,;H5N1 HPAI;,53.24,8.26,RASTEDE,Germany,Europe,2023-04-03T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+353026,Influenza - Avian,;H5N1 HPAI;,53.7894,7.9087,WANGEROOGE,Germany,Europe,2023-04-28T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+352280,Influenza - Avian,;H5N1 HPAI;,52.37,9.73,HANNOVER,Germany,Europe,2023-03-29T00:00:00Z,2023-05-02T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+347187,Influenza - Avian,;H5N1 HPAI;,52.7,7.51,Haselünne,Germany,Europe,2023-02-24T00:00:00Z,2023-02-27T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+353022,Influenza - Avian,;H5N1 HPAI;,51.42,6.82,MÜLHEIM AN DER RUHR,Germany,Europe,2023-04-13T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+351907,Influenza - Avian,;H5N1 HPAI;,51.14,6.89,DÜSSELDORF,Germany,Europe,2023-03-28T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+351905,Influenza - Avian,;H5N1 HPAI;,52.29,7.42,RHEINE,Germany,Europe,2023-04-06T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Gruidae (unidentified):Gruidae (incognita)(Gruidae),",OIE,,,Confirmed
+351906,Influenza - Avian,;H5N1 HPAI;,51.807,7.256,DÜLMEN,Germany,Europe,2023-03-31T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+353024,Influenza - Avian,;H5N1 HPAI;,51.71,6.5,WESEL,Germany,Europe,2023-04-04T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+353025,Influenza - Avian,;H5N1 HPAI;,52.02,7.65,MÜNSTER,Germany,Europe,2023-04-13T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Swan,",OIE,,,Confirmed
+351904,Influenza - Avian,;H5N1 HPAI;,51.84,6.86,BORKEN,Germany,Europe,2023-04-13T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+353023,Influenza - Avian,;H5N1 HPAI;,51.56,6.72,DINSLAKEN,Germany,Europe,2023-04-04T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+348578,Influenza - Avian,;H5N1 HPAI;,50.22,7.15,Kaisersesch,Germany,Europe,2023-03-14T00:00:00Z,2023-03-16T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+347095,Influenza - Avian,;H5N1 HPAI;,18.66886617,105.6482765,Hung Chinh	,Viet Nam,Asia,,2023-02-27T00:00:00Z,"Domestic,Duck,",National authorities,,,Confirmed
+348915,Influenza - Avian,;H5N1 HPAI;,49.318,7.304,Kirkel,Germany,Europe,2023-03-09T00:00:00Z,2023-03-15T00:00:00Z,"Wild,Strigidae (unidentified):Strigidae (incognita)(Strigidae),",OIE,,,Confirmed
+348916,Influenza - Avian,;H5N1 HPAI;,49.31,7.09,Sulzbach/Saar,Germany,Europe,2023-02-28T00:00:00Z,2023-03-15T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+351653,Influenza - Avian,,20.158257,106.009084,Yen Mo,Viet Nam,Asia,,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+346192,Influenza - Avian,;H5N1 HPAI;,20.332728,105.769409,Lac Van,Viet Nam,Asia,,2023-02-22T00:00:00Z,"Domestic,Duck,",National authorities,,,Confirmed
+347094,Influenza - Avian,,20.287,105.929,Ninh Hoa,Viet Nam,Asia,,2023-02-28T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+352194,Influenza - Avian,,20.158,106.009,Yen Mo,Viet Nam,Asia,,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+347359,Influenza - Avian,;H5N1 HPAI;,11.362982,105.407199,Torb Sdarch village,Cambodia,Asia,2023-02-24T00:00:00Z,2023-03-06T00:00:00Z,"Wild,Unspecified bird,",OIE,,,Confirmed
+346066,Influenza - Avian,;H5N1 HPAI;,11.640373,105.160028,Roleang Village,Cambodia,Asia,2023-02-16T00:00:00Z,2023-02-23T00:00:00Z,,WHO,2,1,Confirmed
+353014,Influenza - Avian,;H5N1 HPAI;,51.1,14.96,Görlitz,Germany,Europe,2023-04-27T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+348946,Influenza - Avian,;H5N1 HPAI;,51.268,14.795,Waldhufen,Germany,Europe,2023-02-21T00:00:00Z,2023-03-15T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+348913,Influenza - Avian,;H5N1 HPAI;,51.268,14.795,Waldhufen,Germany,Europe,2023-02-21T00:00:00Z,2023-03-15T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+353015,Influenza - Avian,;H5N1 HPAI;,51.26,12.28,Leipzig,Germany,Europe,2023-04-25T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+348100,Influenza - Avian,;H5N1 HPAI;,51.268,14.795,WALDHUFEN,Germany,Europe,2023-02-21T00:00:00Z,2023-03-15T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+348914,Influenza - Avian,;H5N1 HPAI;,51.65,12.14,Zörbig,Germany,Europe,2023-03-06T00:00:00Z,2023-03-15T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+353016,Influenza - Avian,;H5N1 HPAI;,51.67,12.88,Annaburg,Germany,Europe,2023-04-26T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+353017,Influenza - Avian,;H5N1 HPAI;,52.42,12.2,Jerichow,Germany,Europe,2023-04-12T00:00:00Z,2023-05-11T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348098,Influenza - Avian,;H5N1 HPAI;,51.65,12.14,Zörbig,Germany,Europe,2023-03-06T00:00:00Z,2023-03-15T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+350369,Influenza - Avian,;H5N1 HPAI;,54.61,8.97,BREDSTEDT,Germany,Europe,2023-02-25T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+350467,Influenza - Avian,;H5N1 HPAI;,54.7275,8.752001,DAGEBÜLL,Germany,Europe,2023-03-24T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+350372,Influenza - Avian,;H5N1 HPAI;,53.58,9.7,WEDEL,Germany,Europe,2023-03-01T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+350367,Influenza - Avian,;H5N1 HPAI;,54.47,9.05,HUSUM,Germany,Europe,2023-03-30T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+350375,Influenza - Avian,;H5N1 HPAI;,54.421,10.401,SCHÖNBERG,Germany,Europe,2023-03-07T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+353020,Influenza - Avian,;H5N1 HPAI;,53.96,9.2,Kuden,Germany,Europe,2023-04-03T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+352278,Influenza - Avian,;H5N1 HPAI;,54,8.87,FRIEDRICHSKOOG,Germany,Europe,2023-03-01T00:00:00Z,2023-05-02T00:00:00Z,"Wild,Gray Seal (Halichoerus grypus):Phocidae-Carnivora,",OIE,,,Confirmed
+350364,Influenza - Avian,;H5N1 HPAI;,54.45,9.96,NOER,Germany,Europe,2023-03-29T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350376,Influenza - Avian,;H5N1 HPAI;,54.13,10,NEUMÜNSTER,Germany,Europe,2023-03-01T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+353019,Influenza - Avian,;H5N1 HPAI;,54.344,10.92,Gremersdorf,Germany,Europe,2023-03-14T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+350368,Influenza - Avian,;H5N1 HPAI;,54.94,8.33,WENNINGSTEDT-BRADERUP (SYLT),Germany,Europe,2023-02-24T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350366,Influenza - Avian,;H5N1 HPAI;,54.17,10.02,BORDESHOLM,Germany,Europe,2023-03-28T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+350374,Influenza - Avian,;H5N1 HPAI;,54.43,10.32,WISCH,Germany,Europe,2023-03-07T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+350365,Influenza - Avian,;H5N1 HPAI;,54.262,9.984,SCHIERENSEE,Germany,Europe,2023-03-29T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+348077,Influenza - Avian,;H5N1 HPAI;,54.08,9.11,Nindorf,Germany,Europe,2023-03-14T00:00:00Z,2023-03-16T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347554,Influenza - Avian,;H5N1 HPAI;,54.287,10.709,Wangels,Germany,Europe,2023-02-20T00:00:00Z,2023-03-02T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350370,Influenza - Avian,;H5N1 HPAI;,54.34,10.92,GREMERSDORF,Germany,Europe,2023-03-13T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+350363,Influenza - Avian,;H5N1 HPAI;,53.89,10.69,LÜBECK,Germany,Europe,2023-03-22T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+353018,Influenza - Avian,;H5N1 HPAI;,50.84,12.07,Gera,Germany,Europe,2023-04-01T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Accipitridae (incognita),",OIE,,,Confirmed
+353143,Influenza - Avian,,15.562,108.09,Tan Binh,Viet Nam,Asia,2023-03-14T00:00:00Z,2023-05-14T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+353144,Influenza - Avian,;H5N1 HPAI;,15.12,108.719,Nghia Thuan,Viet Nam,Asia,,2023-05-13T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+352258,Influenza - Avian,;H5N1 HPAI;,52.5,-114.02,Lacombe County (AB-IP61),Canada,Americas,2023-04-19T00:00:00Z,2023-05-01T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352484,Influenza - Avian,;H5N1 HPAI;,49.09,-122.03,CITY OF CHILLIWACK (BC-IP104),Canada,Americas,2023-04-24T00:00:00Z,2023-05-05T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351999,Influenza - Avian,;H5N1 HPAI;,54.9618,9.9115,Augustenborg,Denmark,Europe,2023-04-24T00:00:00Z,2023-04-26T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350896,Influenza - Avian,;H5N1 HPAI;,42.97,-81.4,Municipality of Middlesex Centre (ON-IP46),Canada,Americas,2023-04-04T00:00:00Z,2023-04-14T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+350472,Influenza - Avian,;H5N1 HPAI;,43.65,-79.39,Ontario - dog,Canada,Americas,2023-03-20T00:00:00Z,2023-04-05T00:00:00Z,"Domestic,Dogs,",OIE,,,Confirmed
+349327,Influenza - Avian,;H5N1 HPAI;,53.488,-7.998,Lough Ree,Ireland,Europe,2023-03-13T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Common Tern (Sterna hirundo),",OIE,,,Confirmed
+348369,Influenza - Avian,;H5N1 HPAI;,50.88859,15.73761,JELENIA GÓRA,Poland,Europe,2023-02-23T00:00:00Z,2023-03-20T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+350479,Influenza - Avian,;H5N1 HPAI;,45.36,-72.92,Rouville Regional County Municipality (QC-IP33),Canada,Americas,2023-04-02T00:00:00Z,2023-04-06T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351686,Influenza - Avian,;H5N1 HPAI;,45.75,-72.75,Les Maskoutains Regional County Municipality (QC-IP37),Canada,Americas,2023-04-11T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Duck,",OIE,,,Confirmed
+353036,Influenza - Avian,;H5N1 HPAI;,45.8,-72.78,Les Maskoutains Regional County Municipality (QC-IP47),Canada,Americas,2023-05-05T00:00:00Z,2023-05-11T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350017,Influenza - Avian,;H5N1 HPAI;,45.36,-72.93,Rouville Regional County Municipality (QC-IP32),Canada,Americas,2023-03-24T00:00:00Z,2023-03-31T00:00:00Z,"Domestic,Duck,",OIE,,,Confirmed
+351685,Influenza - Avian,;H5N1 HPAI;,45.38,-71.96,Sherbrooke (QC-IP36),Canada,Americas,2023-04-08T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350897,Influenza - Avian,;H5N1 HPAI;,45.35,-72.88,Rouville Regional County Municipality (QC-IP35),Canada,Americas,2023-04-04T00:00:00Z,2023-04-14T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+350478,Influenza - Avian,;H5N1 HPAI;,45.36,-72.88,Rouville Regional County Municipality (QC-IP34),Canada,Americas,2023-04-02T00:00:00Z,2023-04-06T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+352485,Influenza - Avian,;H5N1 HPAI;,45.81,-72.79,LES MASKOUTAINS REGIONAL COUNTY MUNICIPALITY (QC-IP46),Canada,Americas,2023-04-26T00:00:00Z,2023-05-05T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352695,Influenza - Avian,;H5N1 HPAI;,52.606024,19.382165,W oc awek,Poland,Europe,2023-05-01T00:00:00Z,2023-05-08T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349645,Influenza - Avian,;H5N1 HPAI;,52.679406,18.365455,Kruszwica,Poland,Europe,2023-03-20T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348367,Influenza - Avian,;H5N1 HPAI;,52.601583,18.360666,KRUSZWICA,Poland,Europe,2023-03-06T00:00:00Z,2023-03-20T00:00:00Z,"Wild,White tailed eagle (Haliaeetus albicilla),",OIE,,,Confirmed
+349328,Influenza - Avian,;H5N1 HPAI;,52.92,-8.28,Dromineer,Ireland,Europe,2023-03-10T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352494,Influenza - Avian,;H5N1 HPAI;,51.281349,20.234276,OSSA,Poland,Europe,2023-04-22T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352492,Influenza - Avian,;H5N1 HPAI;,51.281349,20.234276,OSSA,Poland,Europe,2023-04-28T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352922,Influenza - Avian,;H5N1 HPAI;,51.942108,22.790751,BEREZA,Poland,Europe,2023-05-08T00:00:00Z,2023-05-10T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352921,Influenza - Avian,;H5N1 HPAI;,51.272259,21.853014,ZASTÓW KARCZMISKI,Poland,Europe,2023-05-08T00:00:00Z,2023-05-10T00:00:00Z,"Wild,Common Tern (Sterna hirundo),",OIE,,,Confirmed
+352033,Influenza - Avian,;H5N1 HPAI;,50.131277,20.784833,ZDARZEC,Poland,Europe,2023-04-25T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352032,Influenza - Avian,;H5N1 HPAI;,52.250833,22.008333,GA KI,Poland,Europe,2023-04-24T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352491,Influenza - Avian,;H5N1 HPAI;,52.455103,21.01796,NIEPOR T,Poland,Europe,2023-04-23T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352694,Influenza - Avian,;H5N1 HPAI;,52.292263,20.793913,Truskaw,Poland,Europe,2023-04-28T00:00:00Z,2023-05-08T00:00:00Z,"Wild,Herring Gull:Larus argentatus(Laridae),",OIE,,,Confirmed
+352490,Influenza - Avian,;H5N1 HPAI;,51.989722,20.4475,MSZCZONÓW,Poland,Europe,2023-04-30T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352696,Influenza - Avian,;H5N1 HPAI;,50.310383,18.171414,Kobylice,Poland,Europe,2023-05-02T00:00:00Z,2023-05-08T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352488,Influenza - Avian,;H5N1 HPAI;,50.522434,18.046896,GOGOLIN,Poland,Europe,2023-04-28T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352034,Influenza - Avian,;H5N1 HPAI;,50.569982,17.48768,MALERZOWICE,Poland,Europe,2023-04-21T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352486,Influenza - Avian,;H5N1 HPAI;,50.399208,18.13319,ZDZIESZOWICE,Poland,Europe,2023-05-01T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352487,Influenza - Avian,;H5N1 HPAI;,50.462997,17.306063,NYSA,Poland,Europe,2023-05-02T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352697,Influenza - Avian,;H5N1 HPAI;,50.450652,17.138672,Frydrychów,Poland,Europe,2023-05-04T00:00:00Z,2023-05-08T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352352,Influenza - Avian,;H5N1 HPAI;,54.299233,24.784479,Village of Urkionys,Lithuania,Europe,2023-03-16T00:00:00Z,2023-05-03T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352350,Influenza - Avian,;H5N1 HPAI;,54.463596,23.634667,National park,Lithuania,Europe,2023-04-26T00:00:00Z,2023-05-03T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+353158,Influenza - Avian,;H5N1 HPAI;,54.64525,23.994377,RIVER BANK,Lithuania,Europe,2023-05-09T00:00:00Z,2023-05-12T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+353156,Influenza - Avian,;H5N1 HPAI;,55.893622,21.235939,AT THE RIVER BANK,Lithuania,Europe,2023-05-08T00:00:00Z,2023-05-12T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+353155,Influenza - Avian,;H5N1 HPAI;,55.410665,21.291091,KINTAI,Lithuania,Europe,2023-05-04T00:00:00Z,2023-05-12T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+352489,Influenza - Avian,;H5N1 HPAI;,53.91354,19.039993,SZTUM,Poland,Europe,2023-05-02T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+347808,Influenza - Avian,;H5N1 HPAI;,14.851641,-17.203683,Lac Rose area,Senegal,Africa,2023-03-05T00:00:00Z,2023-03-13T00:00:00Z,"Wild,Tern,",FAO officer,,,Confirmed
+351887,Influenza - Avian,;H5N1 HPAI;,54.573496,23.373105,Marijampole,Lithuania,Europe,2023-04-21T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+350643,Influenza - Avian,;H5N1 HPAI;,54.573496,23.373105,Close to the city of Marijampole,Lithuania,Europe,2023-04-07T00:00:00Z,2023-04-11T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+353162,Influenza - Avian,;H5N1 HPAI;,54.573868,23.373731,MARIJAMPOLES CITY,Lithuania,Europe,2023-05-03T00:00:00Z,2023-05-12T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+352351,Influenza - Avian,;H5N1 HPAI;,54.573496,23.373105,Marijampoles city,Lithuania,Europe,2023-04-26T00:00:00Z,2023-05-03T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+353160,Influenza - Avian,;H5N1 HPAI;,54.496246,23.588967,PARK,Lithuania,Europe,2023-05-09T00:00:00Z,2023-05-12T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+352923,Influenza - Avian,;H5N1 HPAI;,49.856259,18.76908,OCHABY WIELKIE,Poland,Europe,2023-04-28T00:00:00Z,2023-05-10T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352036,Influenza - Avian,;H5N1 HPAI;,50.13633,18.27735,BABICE,Poland,Europe,2023-04-19T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352035,Influenza - Avian,;H5N1 HPAI;,49.96955,18.298502,ROSZOKÓW,Poland,Europe,2023-04-21T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349646,Influenza - Avian,;H5N1 HPAI;,50.12144,19.21891,Che m  l ski,Poland,Europe,2023-03-22T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+353159,Influenza - Avian,;H5N1 HPAI;,55.72946,24.400494,PANEVEZYS DISTRICT MUNICIPALITY,Lithuania,Europe,2023-05-08T00:00:00Z,2023-05-12T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+348368,Influenza - Avian,;H5N1 HPAI;,51.130242,20.24095,CIEKLI SKO,Poland,Europe,2023-03-10T00:00:00Z,2023-03-20T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+352920,Influenza - Avian,;H5N1 HPAI;,50.35161,20.726258,GÓRKI,Poland,Europe,2023-05-05T00:00:00Z,2023-05-10T00:00:00Z,"Wild,Black backed gull (Larus marinus),",OIE,,,Confirmed
+353163,Influenza - Avian,;H5N1 HPAI;,55.930332,23.329631,SIAULIAI DISTRICT MUNICIPALITY,Lithuania,Europe,2023-05-09T00:00:00Z,2023-05-12T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+352495,Influenza - Avian,;H5N1 HPAI;,54.315796,22.31525,GO DAP,Poland,Europe,2023-04-24T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352493,Influenza - Avian,;H5N1 HPAI;,53.917052,21.515244,RYBICAL,Poland,Europe,2023-04-27T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348365,Influenza - Avian,;H5N1 HPAI;,51.418889,17.58542,CIESZYN PI A,Poland,Europe,2023-03-02T00:00:00Z,2023-03-20T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348366,Influenza - Avian,;H5N1 HPAI;,52.399931,16.987256,POZNA ,Poland,Europe,2023-03-10T00:00:00Z,2023-03-20T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348944,Influenza - Avian,;H5N1 HPAI;,51.616269,17.817789,Ostrów Wielkopolski,Poland,Europe,2023-03-21T00:00:00Z,2023-03-23T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348943,Influenza - Avian,;H5N1 HPAI;,51.61295,17.82296,Wysocko Ma e,Poland,Europe,2023-03-21T00:00:00Z,2023-03-23T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+353161,Influenza - Avian,;H5N1 HPAI;,54.715108,25.28582,VILNIUS,Lithuania,Europe,2023-05-09T00:00:00Z,2023-05-12T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+353157,Influenza - Avian,;H5N1 HPAI;,55.246157,26.07868,LAKE,Lithuania,Europe,2023-05-09T00:00:00Z,2023-05-12T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+350382,Influenza - Avian,;H5N1 HPAI;,44.6994,12.2358,COMACCHIO,Italy,Europe,2023-03-27T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Eurasian Oystercatcher,",OIE,,,Confirmed
+350381,Influenza - Avian,;H5N1 HPAI;,44.259,12.349,CERVIA,Italy,Europe,2023-03-27T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+346698,Influenza - Avian,;H5N1 HPAI;,44.8275,10.3111,Parma,Italy,Europe,2023-02-17T00:00:00Z,2023-02-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+346697,Influenza - Avian,;H5N1 HPAI;,44.7778,10.2903,Parma,Italy,Europe,2023-02-17T00:00:00Z,2023-02-22T00:00:00Z,"Wild,Eurasian Collared Dove (Streptopelia decaocto),",OIE,,,Confirmed
+348826,Influenza - Avian,;H5N1 HPAI;,44.841849,11.623327,FERRARA,Italy,Europe,2023-03-09T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348905,Influenza - Avian,;H5N1 HPAI;,44.172105,12.323978,Cesena,Italy,Europe,2023-03-16T00:00:00Z,2023-03-22T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350383,Influenza - Avian,;H5N1 HPAI;,44.611809,11.256145,SALA BOLOGNESE,Italy,Europe,2023-03-29T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350380,Influenza - Avian,;H5N1 HPAI;,44.098,12.5,RIMINI,Italy,Europe,2023-03-27T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Common Kestrel:Falco tinnunculus(Falconidae),",OIE,,,Confirmed
+346696,Influenza - Avian,;H5N1 HPAI;,44.77953,10.903537,Carpi,Italy,Europe,2023-02-17T00:00:00Z,2023-02-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350379,Influenza - Avian,;H5N1 HPAI;,44.531432,11.352938,BOLOGNA,Italy,Europe,2023-03-30T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351909,Influenza - Avian,;H5N1 HPAI;,44.227425,10.897058,MONTESE,Italy,Europe,2023-04-21T00:00:00Z,2023-04-26T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351485,Influenza - Avian,;H5N1 HPAI;,44.723626,11.371855,SAN PIETRO IN CASALE,Italy,Europe,2023-03-31T00:00:00Z,2023-04-19T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+351681,Influenza - Avian,;HPAI;,50.86837,4.35266,BRUSSEL,Belgium,Europe,2023-04-17T00:00:00Z,2023-04-20T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+350395,Influenza - Avian,;H5N1 HPAI;,45.447772,9.028104,CUSAGO,Italy,Europe,2023-03-09T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348808,Influenza - Avian,;H5N1 HPAI;,45.561,10.56,MANERBA DEL GARDA,Italy,Europe,2023-02-27T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348804,Influenza - Avian,;H5N1 HPAI;,45.487216,9.323904,PIOLTELLO,Italy,Europe,2023-03-08T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348830,Influenza - Avian,;H5N1 HPAI;,45.464092,10.557735,DESENZANO DEL GARDA,Italy,Europe,2023-02-24T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350390,Influenza - Avian,;H5N1 HPAI;,45.632351,10.193786,VILLA CARCINA,Italy,Europe,2023-03-12T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348828,Influenza - Avian,;H5N1 HPAI;,45.560789,10.569703,MANERBA DEL GARDA,Italy,Europe,2023-03-10T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351911,Influenza - Avian,;H5N1 HPAI;,45.380272,9.277516,SAN GIULIANO MILANESE,Italy,Europe,2023-04-16T00:00:00Z,2023-04-26T00:00:00Z,"Wild,Common Kestrel:Falco tinnunculus(Falconidae),",OIE,,,Confirmed
+351912,Influenza - Avian,;H5N1 HPAI;,45.5205,8.982496,VANZAGO,Italy,Europe,2023-03-26T00:00:00Z,2023-04-26T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348809,Influenza - Avian,;H5N1 HPAI;,45.420924,10.189048,BAGNOLO MELLA,Italy,Europe,2023-03-08T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+351489,Influenza - Avian,;H5N1 HPAI;,45.49346,8.851804,MESERO,Italy,Europe,2023-03-13T00:00:00Z,2023-04-19T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350388,Influenza - Avian,;H5N1 HPAI;,45.601254,10.45434,VILLANUOVA SUL CLISI,Italy,Europe,2023-03-15T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348823,Influenza - Avian,;H5N1 HPAI;,45.583737,10.567926,SAN FELICE DEL BENACO,Italy,Europe,2023-02-26T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348832,Influenza - Avian,;H5N1 HPAI;,45.49209,10.515569,PADENGHE SUL GARDA,Italy,Europe,2023-02-25T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351487,Influenza - Avian,;H5N1 HPAI;,45.563749,10.112637,CASTEGNATO,Italy,Europe,2023-02-28T00:00:00Z,2023-04-19T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350394,Influenza - Avian,;H5N1 HPAI;,45.612668,9.504592,TREZZO SULL' ADDA,Italy,Europe,2023-03-13T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349636,Influenza - Avian,;H5N1 HPAI;,45.595455,9.281592,MONZA,Italy,Europe,2023-03-09T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350392,Influenza - Avian,;H5N1 HPAI;,45.477832,10.532175,DESENZANO DEL GARDA,Italy,Europe,2023-03-16T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348829,Influenza - Avian,;H5N1 HPAI;,45.504159,10.514411,PADENGHE SUL GARDA,Italy,Europe,2023-02-24T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348810,Influenza - Avian,;H5N1 HPAI;,45.528455,10.218724,BRESCIA,Italy,Europe,2023-03-08T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+348801,Influenza - Avian,;H5N1 HPAI;,45.461926,9.15467,MILANO,Italy,Europe,2023-03-09T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350387,Influenza - Avian,;H5N1 HPAI;,45.70941,9.819391,CENATE SOPRA,Italy,Europe,2023-03-21T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348819,Influenza - Avian,;H5N1 HPAI;,45.658907,10.045475,ISEO,Italy,Europe,2023-02-26T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348817,Influenza - Avian,;H5N1 HPAI;,45.666081,9.943506,SARNICO,Italy,Europe,2023-03-14T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348822,Influenza - Avian,;H5N1 HPAI;,45.471867,10.539613,DESENZANO DEL GARDA,Italy,Europe,2023-02-26T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350391,Influenza - Avian,;H5N1 HPAI;,45.645668,10.616469,TOSCOLANO-MADERNO,Italy,Europe,2023-03-11T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350389,Influenza - Avian,;H5N1 HPAI;,45.637577,10.619465,TOSCOLANO-MADERNO,Italy,Europe,2023-03-15T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348820,Influenza - Avian,;H5N1 HPAI;,45.476813,10.538445,DESENZANO DEL GARDA,Italy,Europe,2023-02-27T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+346700,Influenza - Avian,;H5N1 HPAI;,45.6,9.2993,Villasanta,Italy,Europe,2023-02-17T00:00:00Z,2023-02-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348811,Influenza - Avian,;H5N1 HPAI;,45.657768,10.041502,ISEO,Italy,Europe,2023-03-07T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348807,Influenza - Avian,;H5N1 HPAI;,45.461926,9.15467,MILANO,Italy,Europe,2023-03-08T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348818,Influenza - Avian,;H5N1 HPAI;,45.497693,10.507915,PADENGHE SUL GARDA,Italy,Europe,2023-02-27T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348802,Influenza - Avian,;H5N1 HPAI;,45.461,9.1546,MILANO,Italy,Europe,2023-03-08T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Little egret,",OIE,,,Confirmed
+346699,Influenza - Avian,;H5N1 HPAI;,44.97225,11.029455,San Giacomo Delle Segnate,Italy,Europe,2023-02-16T00:00:00Z,2023-02-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349644,Influenza - Avian,;H5N1 HPAI;,45.477768,9.470632,TRUCCAZZANO,Italy,Europe,2023-03-09T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348831,Influenza - Avian,;H5N1 HPAI;,45.561333,10.569049,MANERBA DEL GARDA,Italy,Europe,2023-02-27T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350393,Influenza - Avian,;H5N1 HPAI;,45.461541,10.633792,SIRMIONE,Italy,Europe,2023-03-12T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350384,Influenza - Avian,;H5N1 HPAI;,45.676526,8.703933,SOMMA LOMBARDO,Italy,Europe,2023-03-06T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Common Wood-Pigeon:Columba palumbus(Columbidae),",OIE,,,Confirmed
+348806,Influenza - Avian,;H5N1 HPAI;,45.322712,9.365716,SAN ZENONE AL LAMBRO,Italy,Europe,2023-03-08T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351486,Influenza - Avian,;H5N1 HPAI;,45.466948,10.54751,DESENZANO DEL GARDA,Italy,Europe,2023-02-25T00:00:00Z,2023-04-19T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348825,Influenza - Avian,;H5N1 HPAI;,45.457513,10.621152,SIRMIONE,Italy,Europe,2023-02-27T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350396,Influenza - Avian,;H5N1 HPAI;,45.49346,8.851804,MESERO,Italy,Europe,2023-03-08T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348812,Influenza - Avian,;H5N1 HPAI;,45.504159,10.514411,PADENGHE SUL GARDA,Italy,Europe,2023-03-06T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348803,Influenza - Avian,;H5N1 HPAI;,45.416809,9.28032,SAN DONATO MILANESE,Italy,Europe,2023-03-07T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351488,Influenza - Avian,;H5N1 HPAI;,45.723747,10.105846,SALE MARASINO,Italy,Europe,2023-03-18T00:00:00Z,2023-04-19T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+348827,Influenza - Avian,;H5N1 HPAI;,45.52141,10.537967,MONIGA DEL GARDA,Italy,Europe,2023-03-10T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348834,Influenza - Avian,;H5N1 HPAI;,45.463148,10.561203,DESENZANO DEL GARDA,Italy,Europe,2023-03-10T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348821,Influenza - Avian,;H5N1 HPAI;,45.812039,10.793452,LIMONE SUL GARDA,Italy,Europe,2023-02-26T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351490,Influenza - Avian,;H5N1 HPAI;,45.615472,9.575575,OSIO SOTTO,Italy,Europe,2023-03-18T00:00:00Z,2023-04-19T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+348805,Influenza - Avian,;H5N1 HPAI;,45.4619,9.154,MILANO,Italy,Europe,2023-03-08T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348824,Influenza - Avian,;H5N1 HPAI;,45.470284,10.610252,SIRMIONE,Italy,Europe,2023-02-26T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348833,Influenza - Avian,;H5N1 HPAI;,45.484495,10.538398,DESENZANO DEL GARDA,Italy,Europe,2023-02-19T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351910,Influenza - Avian,;H5N1 HPAI;,45.337184,10.46897,CARPENEDOLO,Italy,Europe,2023-04-18T00:00:00Z,2023-04-26T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349643,Influenza - Avian,;H5N1 HPAI;,45.461926,9.15467,MILANO,Italy,Europe,2023-03-04T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350842,Influenza - Avian,;H5 HPAI;,50.916667,5.333333,Maaseik,Belgium,Europe,2023-03-23T00:00:00Z,2023-04-12T00:00:00Z,"Wild,Buzzard,",OIE,,,Confirmed
+351813,Influenza - Avian,;H5N1 HPAI;,51.010651,5.574672,AS,Belgium,Europe,2023-04-10T00:00:00Z,2023-04-24T00:00:00Z,"Wild,Buzzard,",OIE,,,Confirmed
+350026,Influenza - Avian,;HPAI;,51.07967,5.07328,Tessenderlo,Belgium,Europe,2023-03-14T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+350027,Influenza - Avian,;HPAI;,50.91929,4.54551,Kampenhout,Belgium,Europe,2023-03-20T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+348606,Influenza - Avian,;H5N1 HPAI;,50.780251,3.619861,MAARKEDAL,Belgium,Europe,2023-03-06T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+351814,Influenza - Avian,;H5N1 HPAI;,51.253483,5.344543,LOMMEL,Belgium,Europe,2023-04-10T00:00:00Z,2023-04-24T00:00:00Z,"Wild,Buzzard,",OIE,,,Confirmed
+348562,Influenza - Avian,;H5N1 HPAI;,51.02663,5.34743,HEUSDEN-ZOLDER,Belgium,Europe,2023-02-18T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Polecat,",OIE,,,Confirmed
+350025,Influenza - Avian,;H5N1 HPAI;,50.775063,3.446773,AVELGEM,Belgium,Europe,2023-03-21T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+349156,Influenza - Avian,;H5N1 HPAI;,50.92967,3.97434,Erpe-Mere,Belgium,Europe,2023-03-12T00:00:00Z,2023-03-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348564,Influenza - Avian,;H5 HPAI;,50.827927,4.61195,HULDENBERG,Belgium,Europe,2023-02-20T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+348561,Influenza - Avian,;H5N1 HPAI;,50.84083,4.72445,OUD-HEVERLEE,Belgium,Europe,2023-02-28T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+351812,Influenza - Avian,;H5N1 HPAI;,51.102279,4.01431,DOMEIN MOLSBROEK,Belgium,Europe,2023-04-14T00:00:00Z,2023-04-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352346,Influenza - Avian,;HPAI;,50.97731,3.5745,Deinze,Belgium,Europe,2023-04-05T00:00:00Z,2023-05-02T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+352919,Influenza - Avian,;H5N1 HPAI;,51.333795,4.23617,Doel,Belgium,Europe,2023-04-28T00:00:00Z,2023-05-10T00:00:00Z,"Wild,Black backed gull (Larus marinus),",OIE,,,Confirmed
+346498,Influenza - Avian,;H5N1 HPAI;,50.9485,4.14828,Aalst,Belgium,Europe,2023-02-21T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+352347,Influenza - Avian,;HPAI;,50.91871,3.69068,Gavere,Belgium,Europe,2023-04-09T00:00:00Z,2023-05-02T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+348560,Influenza - Avian,;H5N1 HPAI;,50.92328,4.71798,WILSELE,Belgium,Europe,2023-03-06T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+351684,Influenza - Avian,;HPAI;,50.9358,4.16834,OPWIJK,Belgium,Europe,2023-04-07T00:00:00Z,2023-04-20T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+348607,Influenza - Avian,;H5N1 HPAI;,50.994547,5.686219,MAASMECHELEN,Belgium,Europe,2023-03-02T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+350757,Influenza - Avian,;H5 HPAI;,51.101447,5.79103,Maaseik,Belgium,Europe,2023-03-23T00:00:00Z,2023-04-12T00:00:00Z,"Wild,Buzzard,",OIE,,,Confirmed
+351683,Influenza - Avian,;HPAI;,51.21823,4.45689,DEURNE,Belgium,Europe,2023-04-01T00:00:00Z,2023-04-20T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+351682,Influenza - Avian,;HPAI;,50.73156,5.06167,LANDEN,Belgium,Europe,2023-04-08T00:00:00Z,2023-04-20T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+349155,Influenza - Avian,;H5N1 HPAI;,51.006189,3.987602,Berlare,Belgium,Europe,2023-03-15T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350895,Influenza - Avian,;H5N1 HPAI;,50.943747,4.750592,Rotselaar,Belgium,Europe,2023-04-03T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+351815,Influenza - Avian,;H5N1 HPAI;,51.219505,4.599795,RANST,Belgium,Europe,2023-04-12T00:00:00Z,2023-04-24T00:00:00Z,"Wild,Buzzard,",OIE,,,Confirmed
+350024,Influenza - Avian,;H5N1 HPAI;,50.458419,4.867594,JAMBES,Belgium,Europe,2023-03-09T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350883,Influenza - Avian,;H5N1 HPAI;,50.57743,4.55803,Villers-la-Ville,Belgium,Europe,2023-03-31T00:00:00Z,2023-04-13T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348799,Influenza - Avian,;H5N1 HPAI;,50.38134,3.81403,Dour,Belgium,Europe,2023-03-12T00:00:00Z,2023-03-22T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348605,Influenza - Avian,;H5N1 HPAI;,50.32466,4.23184,THUIN,Belgium,Europe,2023-03-06T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Buzzard,",OIE,,,Confirmed
+348604,Influenza - Avian,;H5N1 HPAI;,50.422459,4.416415,CHARLEROI,Belgium,Europe,2023-03-05T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+350385,Influenza - Avian,;H5N1 HPAI;,45.405216,8.052118,VIVERONE,Italy,Europe,2023-03-23T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350386,Influenza - Avian,;H5N1 HPAI;,45.430235,8.035774,VIVERONE,Italy,Europe,2023-03-23T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350242,Influenza - Avian,;H5N1 HPAI;,43.924961,10.225462,Pietrasanta,Italy,Europe,2023-03-30T00:00:00Z,2023-04-05T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349635,Influenza - Avian,;H5N1 HPAI;,45.868,10.876,NAGO-TORBOLE,Italy,Europe,2023-03-14T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348836,Influenza - Avian,;H5N1 HPAI;,45.923343,10.89617,ARCO,Italy,Europe,2023-03-09T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348835,Influenza - Avian,;H5N1 HPAI;,45.878442,10.858798,RIVA DEL GARDA,Italy,Europe,2023-03-09T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349638,Influenza - Avian,;H5N1 HPAI;,45.87,10.871,NAGO-TORBOLE,Italy,Europe,2023-03-14T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350397,Influenza - Avian,;H5N1 HPAI;,45.87899,10.85455,RIVA DEL GARDA,Italy,Europe,2023-03-17T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349633,Influenza - Avian,;H5N1 HPAI;,45.864938,10.875031,NAGO-TORBOLE,Italy,Europe,2023-03-17T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349640,Influenza - Avian,;H5N1 HPAI;,45.868748,10.875777,NAGO-TORBOLE,Italy,Europe,2023-03-14T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349641,Influenza - Avian,;H5N1 HPAI;,45.869465,10.873358,NAGO-TORBOLE,Italy,Europe,2023-03-14T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349642,Influenza - Avian,;H5N1 HPAI;,45.870314,10.871825,NAGO-TORBOLE,Italy,Europe,2023-03-14T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349639,Influenza - Avian,;H5N1 HPAI;,45.870528,10.87204,NAGO-TORBOLE,Italy,Europe,2023-03-14T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348076,Influenza - Avian,;H5N1 HPAI;,26.982809,88.901199,"Singaygang, Tashichhoeling",Bhutan,Asia,2023-03-11T00:00:00Z,2023-03-16T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351483,Influenza - Avian,;H5N1 HPAI;,45.364675,10.905559,Povegliano Veronese,Italy,Europe,2023-04-10T00:00:00Z,2023-04-19T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+350378,Influenza - Avian,;H5N1 HPAI;,45.469615,12.223371,VENEZIA,Italy,Europe,2023-03-20T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348816,Influenza - Avian,;H5N1 HPAI;,45.647669,11.70922,CARMIGNANO DI BRENTA,Italy,Europe,2023-03-12T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348815,Influenza - Avian,;H5N1 HPAI;,45.748424,10.796305,MALCESINE,Italy,Europe,2023-03-13T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351484,Influenza - Avian,;H5N1 HPAI;,45.297458,10.824189,Mozzecane,Italy,Europe,2023-04-14T00:00:00Z,2023-04-19T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349637,Influenza - Avian,;H5N1 HPAI;,45.529169,10.727377,BARDOLINO,Italy,Europe,2023-03-12T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Yellow-legged Gull ,",OIE,,,Confirmed
+348813,Influenza - Avian,;H5N1 HPAI;,45.611327,10.686037,TORRI DEL BENACO,Italy,Europe,2023-03-13T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351908,Influenza - Avian,;H5N1 HPAI;,45.376651,10.88781,VILLAFRANCA DI VERONA,Italy,Europe,2023-04-24T00:00:00Z,2023-04-26T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+350241,Influenza - Avian,;H5N1 HPAI;,45.307002,10.924128,VIGASIO,Italy,Europe,2023-03-31T00:00:00Z,2023-04-05T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+352478,Influenza - Avian,;H5N1 HPAI;,45.042,11.462,Trecenta,Italy,Europe,2023-04-07T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+350377,Influenza - Avian,;H5N1 HPAI;,45.76357,12.701169,ANNONE VENETO,Italy,Europe,2023-03-20T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348814,Influenza - Avian,;H5N1 HPAI;,45.609459,10.685308,TORRI DEL BENACO,Italy,Europe,2023-03-13T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Yellow-legged Gull ,",OIE,,,Confirmed
+352479,Influenza - Avian,;H5N1 HPAI;,45.52,11.07,Verona,Italy,Europe,2023-04-03T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+351913,Influenza - Avian,;H5N1 HPAI;,45.520181,11.416347,MONTECCHIO MAGGIORE,Italy,Europe,2023-03-08T00:00:00Z,2023-04-26T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349634,Influenza - Avian,;H5N1 HPAI;,45.476088,12.229873,VENEZIA,Italy,Europe,2023-03-20T00:00:00Z,2023-03-29T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+347555,Influenza - Avian,;H5N1 HPAI;,27.757454,85.402116,Gokarneshwor Municipality--2 Sunstar,Nepal,Asia,2023-02-21T00:00:00Z,2023-03-02T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349867,Influenza - Avian,;H5N1 HPAI;,27.657577,85.513833,"Banepa-4, Kavrepalanchok",Nepal,Asia,2023-03-18T00:00:00Z,2023-03-31T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348800,Influenza - Avian,;H5N1 HPAI;,27.668223,85.47244,"Changunarayan-9, Tathali, Bhaktapur",Nepal,Asia,2023-03-03T00:00:00Z,2023-03-22T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351230,Influenza - Avian,;HPAI;,-43.57,-72.066111,Ñirehuao sector,Chile,Americas,,2023-04-13T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350104,Influenza - Avian,;H5N1 HPAI;,52.736,6.896,EMMEN,Netherlands,Europe,2023-03-20T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349447,Influenza - Avian,;H5N1 HPAI;,52.743,6.89,EMMEN,Netherlands,Europe,2023-03-13T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349448,Influenza - Avian,;H5N1 HPAI;,52.667,6.738,COEVORDEN,Netherlands,Europe,2023-03-13T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351214,Influenza - Avian,;H5N1 HPAI;,54.53,-2.37,"Westmorland and Furness, Cumbria",U.K. of Great Britain and Northern Ireland,Europe,2023-04-05T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Buzzard,",OIE,,,Confirmed
+352499,Influenza - Avian,;H5N1 HPAI;,53.39,-3.04,"Birkenhead, Merseyside",U.K. of Great Britain and Northern Ireland,Europe,2023-04-22T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+348371,Influenza - Avian,;H5N1 HPAI;,50.97,-1.38,"CHANDLER’S FORD, HAMPSHIRE",U.K. of Great Britain and Northern Ireland,Europe,2023-03-07T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Eurasian Sparrowhawk:Accipiter nisus(Accipitridae),",OIE,,,Confirmed
+350477,Influenza - Avian,;H5N1 HPAI;,50.51,-3.63,"Newton Abbot, Teignbridge",U.K. of Great Britain and Northern Ireland,Europe,2023-03-20T00:00:00Z,2023-04-06T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351799,Influenza - Avian,;H5N1 HPAI;,52.25,-0.24,"Little Paxton, Cambridgeshire",U.K. of Great Britain and Northern Ireland,Europe,2023-04-08T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Herring Gull:Larus argentatus(Laridae),",OIE,,,Confirmed
+350018,Influenza - Avian,;H5N1 HPAI;,50.61,-2,"LANGTON MATRAVERS, DORSET",U.K. of Great Britain and Northern Ireland,Europe,2023-03-25T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Herring Gull:Larus argentatus(Laridae),",OIE,,,Confirmed
+352496,Influenza - Avian,;H5N1 HPAI;,53.52,-0.99,"Cantley, Doncaster",U.K. of Great Britain and Northern Ireland,Europe,2023-04-27T00:00:00Z,2023-05-05T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350020,Influenza - Avian,;H5N1 HPAI;,52.66,-0.69,"HAMBLETON, LEICESTERSHIRE",U.K. of Great Britain and Northern Ireland,Europe,2023-03-23T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352498,Influenza - Avian,;H5N1 HPAI;,52.36,-0.55,"Ringstead, North Northamptonshire",U.K. of Great Britain and Northern Ireland,Europe,2023-04-24T00:00:00Z,2023-05-05T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350019,Influenza - Avian,;H5N1 HPAI;,52.69,-1.18,"CROPSTON, LEICESTERSHIRE",U.K. of Great Britain and Northern Ireland,Europe,2023-03-25T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348372,Influenza - Avian,;H5N1 HPAI;,54.65,-2.75,"PENRITH, CUMBRIA",U.K. of Great Britain and Northern Ireland,Europe,2023-03-10T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Pink-footed Goose (Anser brachyrhynchus),",OIE,,,Confirmed
+348370,Influenza - Avian,;H5N1 HPAI;,54.81,-2.89,"Southwaite, Eden",U.K. of Great Britain and Northern Ireland,Europe,2023-03-02T00:00:00Z,2023-03-17T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351800,Influenza - Avian,;H5N1 HPAI;,53.88,-0.32,"Leven, East Riding of Yorkshire",U.K. of Great Britain and Northern Ireland,Europe,2023-04-05T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Duck,",OIE,,,Confirmed
+351797,Influenza - Avian,;H5N1 HPAI;,52.55,-1.69,"Bodymoor Heath, Warwickshire",U.K. of Great Britain and Northern Ireland,Europe,2023-04-13T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351798,Influenza - Avian,;H5N1 HPAI;,53.25,-3.02,"Burton Mere, Cheshire",U.K. of Great Britain and Northern Ireland,Europe,2023-04-13T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Canada Goose:Branta canadensis(Anatidae),",OIE,,,Confirmed
+349405,Influenza - Avian,;H5 HPAI;,-20.201991,-70.141205,PLAYA COLORADO,Chile,Americas,2023-03-07T00:00:00Z,2023-03-27T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+348375,Influenza - Avian,;H5 HPAI;,-19.582257,-70.20444,PISAGUA,Chile,Americas,2023-03-07T00:00:00Z,2023-03-17T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+352218,Influenza - Avian,;H5 HPAI;,-20.201991,-70.141205,Playa el Colorado,Chile,Americas,2023-04-03T00:00:00Z,2023-04-24T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+349402,Influenza - Avian,;H5 HPAI;,-20.288116,-70.129759,PLAYA HUAYQUIQUE,Chile,Americas,2023-03-10T00:00:00Z,2023-03-27T00:00:00Z,"Wild,Marine otter (Lontra felina),",OIE,,,Confirmed
+349403,Influenza - Avian,;H5 HPAI;,-20.236367,-70.152741,SECTOR PENÍNSULA IQUIQUE,Chile,Americas,2023-03-10T00:00:00Z,2023-03-27T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+347549,Influenza - Avian,;H5 HPAI;,-21.1707,-70.106,Playa Boca del Diablo,Chile,Americas,2023-02-23T00:00:00Z,2023-03-07T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+349398,Influenza - Avian,;H5 HPAI;,-19.582257,-70.20444, PISAGUA,Chile,Americas,2023-03-13T00:00:00Z,2023-03-27T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+347348,Influenza - Avian,;H5N1 HPAI;,-21.3121,-70.0656,Playa y Caleta Bahía Chipana,Chile,Americas,2023-02-21T00:00:00Z,2023-03-03T00:00:00Z,"Wild,Gull,",OIE,,,Confirmed
+348373,Influenza - Avian,;H5 HPAI;,-20.201991,-70.141205,PLAYA EL COLORADO,Chile,Americas,2023-03-09T00:00:00Z,2023-03-17T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+347881,Influenza - Avian,;H5N1 HPAI;,-2.858257,-79.033858,SAN SEBASTIÁN,Ecuador,Americas,2023-02-19T00:00:00Z,2023-03-13T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+349433,Influenza - Avian,;H5N1 HPAI;,52.518,5.471,LELYSTAD,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349446,Influenza - Avian,;H5N1 HPAI;,52.331,5.539,ZEEWOLDE,Netherlands,Europe,2023-03-13T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349722,Influenza - Avian,;H5N1 HPAI;,52.378,5.256,ALMERE,Netherlands,Europe,2023-02-24T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349477,Influenza - Avian,;H5N1 HPAI;,52.517,5.436,LELYSTAD,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349733,Influenza - Avian,;H5N1 HPAI;,52.384,5.252,ALMERE,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349456,Influenza - Avian,;H5N1 HPAI;,52.3171,5.562,ERMELO,Netherlands,Europe,2023-03-06T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349441,Influenza - Avian,;H5N1 HPAI;,52.5023,5.418,LELYSTAD,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349726,Influenza - Avian,;H5N1 HPAI;,52.384,5.252,ALMERE,Netherlands,Europe,2023-02-24T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Corvidae (incognita),",OIE,,,Confirmed
+348376,Influenza - Avian,;H5 HPAI;,-18.419067,-70.321289,HUMEDAL RIO LLUTA,Chile,Americas,2023-03-01T00:00:00Z,2023-03-17T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+347347,Influenza - Avian,;H5 HPAI;,-18.3975,-70.336944,Humedal Rio Lluta,Chile,Americas,2023-02-25T00:00:00Z,2023-03-07T00:00:00Z,"Wild,Sea otter (Enhydra lutris),",OIE,,,Confirmed
+349437,Influenza - Avian,;H5N1 HPAI;,53.4336,5.6951,NES AMELAND,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Herring Gull:Larus argentatus(Laridae),Wild,Great Black-backed Gull (Larus marinus),",OIE,,,Confirmed
+349330,Influenza - Avian,;H5N1 HPAI;,55.6,-3.4,"Calzeat, Scottish Borders",U.K. of Great Britain and Northern Ireland,Europe,2023-03-14T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Pink-footed Goose (Anser brachyrhynchus),",OIE,,,Confirmed
+349329,Influenza - Avian,;H5N1 HPAI;,56.07,-4.39,"Drymen, Stirling",U.K. of Great Britain and Northern Ireland,Europe,2023-03-17T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Pink-footed Goose (Anser brachyrhynchus),",OIE,,,Confirmed
+347199,Influenza - Avian,;H5N1 HPAI;,56.28,-2.93,"Rosewells, Fife  ",U.K. of Great Britain and Northern Ireland,Europe,2023-02-16T00:00:00Z,2023-02-24T00:00:00Z,"Wild,Buzzard,",OIE,,,Confirmed
+347200,Influenza - Avian,;H5N1 HPAI;,56.3,-3.09,"Bow of Fife, Fife  ",U.K. of Great Britain and Northern Ireland,Europe,2023-02-16T00:00:00Z,2023-02-24T00:00:00Z,"Wild,Pink-footed Goose (Anser brachyrhynchus),",OIE,,,Confirmed
+349150,Influenza - Avian,;HPAI;,-39.813889,-73.245833,Carlos Anwandter Nature Sanctuary,Chile,Americas,,2023-03-23T00:00:00Z,"Wild,Black-necked swan (Cygnus melancoryphus),",National authorities,,,Confirmed
+349715,Influenza - Avian,;H5N1 HPAI;,52.145,5.568,BARNEVELD,Netherlands,Europe,2023-02-28T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349463,Influenza - Avian,;H5N1 HPAI;,51.954,5.246,CULEMBORG,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349730,Influenza - Avian,;H5N1 HPAI;,52.007,5.67,BENNEKOM,Netherlands,Europe,2023-02-24T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Corvidae (incognita),",OIE,,,Confirmed
+350088,Influenza - Avian,;H5N1 HPAI;,52.45,5.83,ELBURG,Netherlands,Europe,2023-03-31T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+353021,Influenza - Avian,;H5N1 HPAI;,52.05,6.69,VREDEN,Netherlands,Europe,2023-04-19T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350110,Influenza - Avian,;H5N1 HPAI;,52.239,5.436,NIJKERK GLD,Netherlands,Europe,2023-03-20T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349466,Influenza - Avian,;H5N1 HPAI;,52.231,5.496,NIJKERK,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350114,Influenza - Avian,;H5N1 HPAI;,52.202,6.0973,WILP,Netherlands,Europe,2023-03-17T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349460,Influenza - Avian,;H5N1 HPAI;,52.211,5.457,NIJKERK,Netherlands,Europe,2023-03-06T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350112,Influenza - Avian,;H5N1 HPAI;,51.954,5.888,ARNHEM,Netherlands,Europe,2023-03-17T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349739,Influenza - Avian,;H5N1 HPAI;,52.014,5.713,BENNEKOM,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350090,Influenza - Avian,;H5N1 HPAI;,51.89,5.85,LENT,Netherlands,Europe,2023-03-29T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349442,Influenza - Avian,;H5N1 HPAI;,52.171,5.466,HOEVELAKEN,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Eurasian Oystercatcher,",OIE,,,Confirmed
+350111,Influenza - Avian,;H5N1 HPAI;,51.945,5.926,HUISSEN,Netherlands,Europe,2023-03-20T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Sanderling ,",OIE,,,Confirmed
+350100,Influenza - Avian,;H5N1 HPAI;,51.976,5.874,ARNHEM,Netherlands,Europe,2023-03-22T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349455,Influenza - Avian,;H5N1 HPAI;,52.255,5.598,PUTTEN,Netherlands,Europe,2023-03-06T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350096,Influenza - Avian,;H5N1 HPAI;,51.99,6.034,LATHUM,Netherlands,Europe,2023-03-24T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350093,Influenza - Avian,;H5N1 HPAI;,51.86,6.102,TOLKAMER,Netherlands,Europe,2023-03-24T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350094,Influenza - Avian,;H5N1 HPAI;,51.971,5.929,ARNHEM,Netherlands,Europe,2023-03-24T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350086,Influenza - Avian,;H5N1 HPAI;,52.44,6.08,WAPENVELD,Netherlands,Europe,2023-03-31T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Barn owl (Tyto alba),",OIE,,,Confirmed
+349450,Influenza - Avian,;H5N1 HPAI;,52.187,5.954,APELDOORN,Netherlands,Europe,2023-03-08T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349720,Influenza - Avian,;H5N1 HPAI;,53.1798,6.554,HAREN,Netherlands,Europe,2023-02-28T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349728,Influenza - Avian,;H5N1 HPAI;,53.243,6.532,GRONINGEN,Netherlands,Europe,2023-03-24T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349438,Influenza - Avian,;H5N1 HPAI;,53.223,6.543,GRONINGEN,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349444,Influenza - Avian,;H5N1 HPAI;,53.176,6.554,EELDERWOLDE,Netherlands,Europe,2023-03-13T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352497,Influenza - Avian,;H5N1 HPAI;,52.56,-3.28,"Newtown, Montgomeryshire",U.K. of Great Britain and Northern Ireland,Europe,2023-04-24T00:00:00Z,2023-05-05T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+352248,Influenza - Avian,;H5N1 HPAI;,52.58,-3.24,"Montgomery, Powys",U.K. of Great Britain and Northern Ireland,Europe,2023-04-20T00:00:00Z,2023-04-28T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351801,Influenza - Avian,;H5N1 HPAI;,52.56,-3.29,"Newtown, Montgomeryshire",U.K. of Great Britain and Northern Ireland,Europe,2023-04-11T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+352215,Influenza - Avian,;H5N1 HPAI;,52.58,-3.24,"Montgomery, Powys",U.K. of Great Britain and Northern Ireland,Europe,2023-04-20T00:00:00Z,2023-04-28T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+346745,Influenza - Avian,;H5 HPAI;,-23.4641,-70.4919,LA RINCONADA,Chile,Americas,2023-02-18T00:00:00Z,2023-02-28T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",National authorities,,,Confirmed
+349790,Influenza - Avian,;H5N1 HPAI;,-23.65,-70.4,Antofagasta,Chile,Americas,2023-03-13T00:00:00Z,2023-03-28T00:00:00Z,,National authorities,1,,Confirmed
+350087,Influenza - Avian,;H5N1 HPAI;,50.85,5.69,MAASTRICHT,Netherlands,Europe,2023-03-31T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+349449,Influenza - Avian,;H5N1 HPAI;,51.343,6.137,TEGELEN,Netherlands,Europe,2023-03-08T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+350089,Influenza - Avian,;H5N1 HPAI;,50.84,5.69,MAASTRICHT,Netherlands,Europe,2023-03-31T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Eurasian Eagle-Owl:Bubo bubo(Strigidae),",OIE,,,Confirmed
+350107,Influenza - Avian,;H5N1 HPAI;,51.565,6.059,WELL,Netherlands,Europe,2023-03-20T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350106,Influenza - Avian,;H5N1 HPAI;,50.848,5.687,MAASTRICHT,Netherlands,Europe,2023-03-20T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+348557,Influenza - Avian,;H5N1 HPAI;,46.2309,14.5171,CERKLJE NA GORENJSKEM,Slovenia,Europe,2023-03-02T00:00:00Z,2023-03-21T00:00:00Z,"Wild,House sparrow,Wild,Eurasian Tree Sparrow ,",OIE,,,Confirmed
+347192,Influenza - Avian,;H5N1 HPAI;,46.23085,14.51712,Zalog pri Cerkljah na Gorenjskem,Slovenia,Europe,2023-02-24T00:00:00Z,2023-02-27T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347885,Influenza - Avian,;H5N1 HPAI;,-38.7934,-72.9758,LLANCAHUITO,Chile,Americas,2023-02-28T00:00:00Z,2023-03-13T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347880,Influenza - Avian,;H5N1 HPAI;,-0.887976,-78.667267,LAS PARCELAS DE LLANO GRANDE,Ecuador,Americas,2023-02-27T00:00:00Z,2023-03-13T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351711,Influenza - Avian,;H5N1 HPAI;,39.453,140.4754,DAISEN-CITY2,Japan,Asia,2023-03-16T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+351707,Influenza - Avian,;H5N1 HPAI;,39.453,140.4754,DAISEN-CITY3,Japan,Asia,2023-03-20T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+351713,Influenza - Avian,;H5N1 HPAI;,39.453,140.4754,DAISEN-CITY1,Japan,Asia,2023-03-15T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+351708,Influenza - Avian,;H5N1 HPAI;,39.3138,140.5666,YOKOTE-CITY1,Japan,Asia,2023-03-16T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+350103,Influenza - Avian,;H5N1 HPAI;,51.818,3.997,GOEDEREEDE,Netherlands,Europe,2023-03-20T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+350108,Influenza - Avian,;H5N1 HPAI;,51.313,5.61,MAARHEEZE,Netherlands,Europe,2023-03-20T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349713,Influenza - Avian,;H5N1 HPAI;,51.645,5.956,BOXMEER,Netherlands,Europe,2023-03-01T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350113,Influenza - Avian,;H5N1 HPAI;,51.7717,5.512,OSS,Netherlands,Europe,2023-03-17T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350115,Influenza - Avian,;H5N1 HPAI;,51.782,5.096,VEEN,Netherlands,Europe,2023-03-17T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Great Black-headed Gull (Ichthyaetus ichthyaetus),",OIE,,,Confirmed
+349746,Influenza - Avian,;H5N1 HPAI;,51.434,5.513,EINDHOVEN,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349724,Influenza - Avian,;H5N1 HPAI;,51.436,5.45,EINDHOVEN,Netherlands,Europe,2023-02-24T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349462,Influenza - Avian,;H5N1 HPAI;,51.522,5.138,HILVARENBEEK,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349729,Influenza - Avian,;H5N1 HPAI;,51.469,5.664,HELMOND,Netherlands,Europe,2023-02-24T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349721,Influenza - Avian,;H5N1 HPAI;,51.469,5.664,HELMOND,Netherlands,Europe,2023-02-24T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349458,Influenza - Avian,;H5N1 HPAI;,51.695,5.252,DEN BOSCH,Netherlands,Europe,2023-03-06T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349452,Influenza - Avian,;H5N1 HPAI;,51.735,5.131,HEUSDEN,Netherlands,Europe,2023-03-08T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349439,Influenza - Avian,;H5N1 HPAI;,51.609,5.552,VEGHEL,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349400,Influenza - Avian,;H5 HPAI;,-27.5048,-70.8845,PLAYA BARRABAQUILLA,Chile,Americas,2023-03-12T00:00:00Z,2023-03-27T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+351248,Influenza - Avian,;HPAI;,-27.410225,-69.932393,Atacama,Chile,Americas,2023-03-27T00:00:00Z,2023-04-06T00:00:00Z,"Wild,Burmeister's porpoise (Phocoena spinipinnis),",National authorities,,,Confirmed
+349399,Influenza - Avian,;H5 HPAI;,-26.247589,-70.647032,PLAYA EL REFUGIO,Chile,Americas,2023-03-12T00:00:00Z,2023-03-27T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+352221,Influenza - Avian,;H5 HPAI;,-29.086822,-71.470472,Playa Grande (Huasco),Chile,Americas,2023-03-24T00:00:00Z,2023-04-24T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+349404,Influenza - Avian,;H5 HPAI;,-26.34836,-70.622447,CHAÑARAL,Chile,Americas,2023-03-10T00:00:00Z,2023-03-27T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+349869,Influenza - Avian,;H5N1 HPAI;,40.9719,140.656,Yomogita-Village1,Japan,Asia,2023-03-23T00:00:00Z,2023-03-31T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350092,Influenza - Avian,;H5N1 HPAI;,53.08,4.75,TEXEL,Netherlands,Europe,2023-03-29T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Herring Gull:Larus argentatus(Laridae),",OIE,,,Confirmed
+349742,Influenza - Avian,;H5N1 HPAI;,52.292,5.277,BLARICUM,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350233,Influenza - Avian,;H5N1 HPAI;,52.89,4.984,HIPPOLYTUSHOEF,Netherlands,Europe,2023-03-22T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Herring Gull:Larus argentatus(Laridae),Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350091,Influenza - Avian,;H5N1 HPAI;,52.6,4.71,HEILOO,Netherlands,Europe,2023-03-29T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349461,Influenza - Avian,;H5N1 HPAI;,52.294,5.263,HUIZEN,Netherlands,Europe,2023-03-06T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350105,Influenza - Avian,;H5N1 HPAI;,52.2942,5.1744,NAARDEN,Netherlands,Europe,2023-03-20T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349714,Influenza - Avian,;H5N1 HPAI;,52.283,4.9257,OUDERKERK AAN DE AMSTEL,Netherlands,Europe,2023-02-28T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349736,Influenza - Avian,;H5N1 HPAI;,52.303,5.252,HUIZEN,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349474,Influenza - Avian,;H5N1 HPAI;,52.644,5.074,HOORN,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349718,Influenza - Avian,;H5N1 HPAI;,52.461,4.742,ASSENDELFT,Netherlands,Europe,2023-02-28T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349740,Influenza - Avian,;H5N1 HPAI;,52.241,5.153,HILVERSUM,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349470,Influenza - Avian,;H5N1 HPAI;,52.648,5.079,HOORN,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350095,Influenza - Avian,;H5N1 HPAI;,52.31,4.89,AMSTELVEEN,Netherlands,Europe,2023-03-24T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Eurasian Oystercatcher,",OIE,,,Confirmed
+349735,Influenza - Avian,;H5N1 HPAI;,52.233,6.85,ENSCHEDE,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349472,Influenza - Avian,;H5N1 HPAI;,52.431,6.683,GEESTEREN,Netherlands,Europe,2023-03-03T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349719,Influenza - Avian,;H5N1 HPAI;,52.226,6.841,ENSCHEDE,Netherlands,Europe,2023-02-28T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349471,Influenza - Avian,;H5N1 HPAI;,52.364,6.609,WIERDEN,Netherlands,Europe,2023-03-03T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349712,Influenza - Avian,;H5N1 HPAI;,52.403,6.655,VRIEZENVEEN,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349747,Influenza - Avian,;H5N1 HPAI;,52.409,6.636,VRIEZENVEEN,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349734,Influenza - Avian,;H5N1 HPAI;,52.217,6.871,ENSCHEDE,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349473,Influenza - Avian,;H5N1 HPAI;,52.218,6.915,ENSCHEDE,Netherlands,Europe,2023-03-03T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349467,Influenza - Avian,;H5N1 HPAI;,52.48,6.115,ZWOLLE,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349745,Influenza - Avian,;H5N1 HPAI;,52.364,6.636,ALMELO,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349744,Influenza - Avian,;H5N1 HPAI;,52.365,6.645,ALMELO,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349476,Influenza - Avian,;H5N1 HPAI;,52.357,6.65,ALMELO,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349432,Influenza - Avian,;H5N1 HPAI;,52.2593,6.14,DEVENTER,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349732,Influenza - Avian,;H5N1 HPAI;,52.227,6.912,ENSCHEDE,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349396,Influenza - Avian,;H5 HPAI;,-36.956,-73.167,SPU PLAYA ESCUDRON,Chile,Americas,2023-03-17T00:00:00Z,2023-03-27T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+347886,Influenza - Avian,;H5N1 HPAI;,-36.6761,-72.2881,CHILLAN VIEJO,Chile,Americas,2023-02-27T00:00:00Z,2023-03-13T00:00:00Z,"Wild,Black-necked swan (Cygnus melancoryphus),Domestic,Unspecified bird,",OIE,,,Confirmed
+352216,Influenza - Avian,;H5N1 HPAI;,-36.79,-72.7346,Criadero Fundo Chequen,Chile,Americas,2023-04-04T00:00:00Z,2023-04-25T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351494,Influenza - Avian,;H5 HPAI;,-36.22,-72.8,Ñuble,Chile,Americas,,2023-04-19T00:00:00Z,"Wild,Chilean dolphin (Cephalorhynchus eutropia), ,",National authorities,,,Confirmed
+352257,Influenza - Avian,;H5N1 HPAI;,-36.8093,-72.7177,Fundo Tarapaca,Chile,Americas,2023-04-16T00:00:00Z,2023-04-28T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+347884,Influenza - Avian,;H5N1 HPAI;,-36.7368,-72.9974, PLAYA PENCO,Chile,Americas,2023-02-26T00:00:00Z,2023-03-13T00:00:00Z,"Wild,Kelp gull,",OIE,,,Confirmed
+352223,Influenza - Avian,;H5N1 HPAI;,-36.7919,-72.7386,Fundo Chequen,Chile,Americas,2023-03-22T00:00:00Z,2023-04-25T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349871,Influenza - Avian,;H5N1 HPAI;,-36.7919,-72.7386,Fundo Chequen,Chile,Americas,2023-03-22T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352217,Influenza - Avian,;H5N1 HPAI;,-36.7929,-72.7387,Sector Crianza. Agrochequen,Chile,Americas,2023-03-27T00:00:00Z,2023-04-25T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+349737,Influenza - Avian,;H5N1 HPAI;,52.041,5.076,NIEUWEGEIN,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349434,Influenza - Avian,;H5N1 HPAI;,52.02,5.192,HOUTEN,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350101,Influenza - Avian,;H5N1 HPAI;,52.06,5.3,DRIEBERGEN-RIJSENBURG,Netherlands,Europe,2023-03-22T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350097,Influenza - Avian,;H5N1 HPAI;,52.113,5.023,VLEUTEN,Netherlands,Europe,2023-03-22T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349469,Influenza - Avian,;H5N1 HPAI;,52.266,5.272,EEMNES,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349440,Influenza - Avian,;H5N1 HPAI;,52.184,5.392,AMERSFOORT,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349731,Influenza - Avian,;H5N1 HPAI;,52.203,4.865,MIJDRECHT,Netherlands,Europe,2023-02-22T00:00:00Z,2023-03-25T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349468,Influenza - Avian,;H5N1 HPAI;,52.2088,5.068,LOOSDRECHT,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349436,Influenza - Avian,;H5N1 HPAI;,52.102,5.043,UTRECHT,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349435,Influenza - Avian,;H5N1 HPAI;,52.082,5.184,UTRECHT,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Common moorhen (Gallinula chloropus),",OIE,,,Confirmed
+349429,Influenza - Avian,;H5N1 HPAI;,52.02,5.191,HOUTEN,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349457,Influenza - Avian,;H5N1 HPAI;,52.282,4.987,OUDERKERK AAN DE AMSTEL,Netherlands,Europe,2023-03-06T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349443,Influenza - Avian,;H5N1 HPAI;,52.184,5.394,AMERSFOORT,Netherlands,Europe,2023-03-13T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349727,Influenza - Avian,;H5N1 HPAI;,52.101,5.226,ZEIST,Netherlands,Europe,2023-02-24T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349451,Influenza - Avian,;H5N1 HPAI;,52.028,5.154,HOUTEN,Netherlands,Europe,2023-03-08T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350099,Influenza - Avian,;H5N1 HPAI;,52.018,5.192,HOUTEN,Netherlands,Europe,2023-03-22T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349454,Influenza - Avian,;H5N1 HPAI;,52.042,5.178,HOUTEN,Netherlands,Europe,2023-03-06T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+346709,Influenza - Avian,;H5N1 HPAI;,45.768,14.3623,Cerknica,Slovenia,Europe,2023-02-20T00:00:00Z,2023-02-24T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+346712,Influenza - Avian,;H5N1 HPAI;,45.7677,14.3624,Cerknica,Slovenia,Europe,2023-02-21T00:00:00Z,2023-02-24T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348556,Influenza - Avian,;H5N1 HPAI;,45.771,14.3572,CERKNICA LAKE,Slovenia,Europe,2023-03-08T00:00:00Z,2023-03-21T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348374,Influenza - Avian,;H5 HPAI;,-29.903591,-71.273245,DESEMBOCADURA DEL RIO ELQUI,Chile,Americas,2023-03-08T00:00:00Z,2023-03-17T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+352220,Influenza - Avian,;H5 HPAI;,-29.247673,-71.468002,Punta de Choros,Chile,Americas,2023-03-24T00:00:00Z,2023-04-24T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+347788,Influenza - Avian,;HPAI;,-30.1534,-71.3744,Morrillos beach,Chile,Americas,,2023-03-09T00:00:00Z,"Wild,Humboldt penguin (Spheniscus humboldti),",National authorities,,,Confirmed
+347550,Influenza - Avian,;H5N1 HPAI;,-30.293,-71.61069,Puerto Aldea,Chile,Americas,2023-02-16T00:00:00Z,2023-03-03T00:00:00Z,"Wild,Peruvian pelican (Pelecanus thagus),",OIE,,,Confirmed
+347771,Influenza - Avian,;H5N1 HPAI;,33.5901,130.4017,Fukuoka-City1,Japan,Asia,2023-03-01T00:00:00Z,2023-03-10T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348092,Influenza - Avian,;H5N1 HPAI;,33.5902,130.4017,FUKUOKA-CITY2,Japan,Asia,2023-02-17T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+351718,Influenza - Avian,;H5N1 HPAI;,33.5902,130.4017,FUKUOKA-CITY3,Japan,Asia,2023-03-09T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+349431,Influenza - Avian,;H5N1 HPAI;,51.545,3.834,WOLPHAARTSDIJK,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349459,Influenza - Avian,;H5N1 HPAI;,51.6,3.849,COLIJNSPLAAT,Netherlands,Europe,2023-03-06T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350109,Influenza - Avian,;H5N1 HPAI;,51.444,3.636,RITTHEM,Netherlands,Europe,2023-03-20T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Barnacle Goose:Branta leucopsis(Anatidae),",OIE,,,Confirmed
+349717,Influenza - Avian,;H5N1 HPAI;,51.543,3.926,WILHELMINADORP,Netherlands,Europe,2023-02-28T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349716,Influenza - Avian,;H5N1 HPAI;,51.306,3.462,OOSTBURG,Netherlands,Europe,2023-02-28T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349397,Influenza - Avian,;H5 HPAI;,-33.954425,-71.871268,PLAYA MATANZAS,Chile,Americas,2023-03-17T00:00:00Z,2023-03-27T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+352222,Influenza - Avian,;H5N1 HPAI;,-34.1368,-70.8252,"Parcela 22, Santa Elena, Villa Don Sergio, Comuna de Rancagua",Chile,Americas,2023-03-20T00:00:00Z,2023-04-17T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348222,Influenza - Avian,;H5N1 HPAI;,-34.1121,-70.8475,"Rubiana 1, Comuna de Rancagua",Chile,Americas,2023-03-13T00:00:00Z,2023-03-14T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+349430,Influenza - Avian,;H5N1 HPAI;,52.139,4.671,ALPHEN AAN DEN RIJN,Netherlands,Europe,2023-03-15T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349743,Influenza - Avian,;H5N1 HPAI;,51.967,4.152,HOEK VAN HOLLAND,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350098,Influenza - Avian,;H5N1 HPAI;,52.055,4.33,RIJSWIJK,Netherlands,Europe,2023-03-22T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349464,Influenza - Avian,;H5N1 HPAI;,51.832,4.995,GORINCHEM,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349475,Influenza - Avian,;H5N1 HPAI;,51.838,4.666,HENDRIK-IDO-AMBACHT,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349741,Influenza - Avian,;H5N1 HPAI;,51.911,4.429,ROTTERDAM,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+350102,Influenza - Avian,;H5N1 HPAI;,51.927,4.229,MAASSLUIS,Netherlands,Europe,2023-03-22T00:00:00Z,2023-04-03T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349445,Influenza - Avian,;H5N1 HPAI;,51.982,5.1246,HAGESTEIN,Netherlands,Europe,2023-03-13T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349465,Influenza - Avian,;H5N1 HPAI;,51.978,5.123,HAGESTEIN,Netherlands,Europe,2023-03-02T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349725,Influenza - Avian,;H5N1 HPAI;,51.83,4.1584,HELLEVOETSLUIS,Netherlands,Europe,2023-02-24T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Curlew,",OIE,,,Confirmed
+349738,Influenza - Avian,;H5N1 HPAI;,51.895,4.459,ROTTERDAM,Netherlands,Europe,2023-02-21T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349453,Influenza - Avian,;H5N1 HPAI;,51.902,4.692,LEKKERKERK,Netherlands,Europe,2023-03-06T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349723,Influenza - Avian,;H5N1 HPAI;,51.809,4.62,ZWIJNDRECHT,Netherlands,Europe,2023-02-24T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+348555,Influenza - Avian,;H5N1 HPAI;,46.0023,14.4683,LJUBLJANA BARJE,Slovenia,Europe,2023-03-09T00:00:00Z,2023-03-21T00:00:00Z,"Wild,Buzzard,",OIE,,,Confirmed
+346711,Influenza - Avian,;H5N1 HPAI;,46.5317,16.4381,Lendava,Slovenia,Europe,2023-02-16T00:00:00Z,2023-02-24T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+346710,Influenza - Avian,;H5N1 HPAI;,46.5317,16.4381,Lendava,Slovenia,Europe,2023-02-18T00:00:00Z,2023-02-24T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+349151,Influenza - Avian,;H5N1 HPAI;,-35.8517,-71.5796,Escuela Agricola Salesianos Don Bosco ,Chile,Americas,2023-03-15T00:00:00Z,2023-03-22T00:00:00Z,"Domestic,Chicken,",National authorities,,,Confirmed
+350036,Influenza - Avian,;HPAI;,-34.983333,-72,Iloca Beach,Chile,Americas,,2023-03-28T00:00:00Z,"Wild,sea lion,",National authorities,,,Confirmed
+352001,Influenza - Avian,;H5 HPAI;,-35.5093,-71.5567,Avícola Reinero,Chile,Americas,2023-04-06T00:00:00Z,2023-04-26T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351482,Influenza - Avian,;H5 HPAI;,-35.61511,-71.512312,Maule,Chile,Americas,,2023-04-17T00:00:00Z,"Wild,Chilean dolphin (Cephalorhynchus eutropia), ,",National authorities,,,Confirmed
+349401,Influenza - Avian,;H5 HPAI;,-34.9407,-72.1822,PLAYA ILOCA,Chile,Americas,2023-03-13T00:00:00Z,2023-03-27T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+348377,Influenza - Avian,;H5N1 HPAI;,-33.7,-71.216667,Melipilla,Chile,Americas,,2023-03-17T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+351701,Influenza - Avian,;H5N1 HPAI;,42.5748,141.9266,MUKAWA-TOWN2,Japan,Asia,2023-03-30T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+351699,Influenza - Avian,;H5N1 HPAI;,43.3302,145.5827,NEMURO-CITY1,Japan,Asia,2023-03-01T00:00:00Z,2023-04-21T00:00:00Z,"Wild,White tailed eagle (Haliaeetus albicilla),",OIE,,,Confirmed
+350755,Influenza - Avian,;H5N1 HPAI;,42.8208,141.6508,Chitose-City3,Japan,Asia,2023-04-06T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351716,Influenza - Avian,;H5N1 HPAI;,43.0619,141.3544,SAPPORO-CITY5,Japan,Asia,2023-03-13T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+350772,Influenza - Avian,;H5N1 HPAI;,42.8208,141.6508,Chitose-City2,Japan,Asia,2023-04-02T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351702,Influenza - Avian,;H5N1 HPAI;,42.0165,143.1482,ERIMO-TOWN1,Japan,Asia,2023-03-29T00:00:00Z,2023-04-21T00:00:00Z,"Wild,White tailed eagle (Haliaeetus albicilla),",OIE,,,Confirmed
+351698,Influenza - Avian,;H5N1 HPAI;,43.0619,141.3544,Sapporo-City1,Japan,Asia,2023-04-12T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+351704,Influenza - Avian,;H5N1 HPAI;,43.5582,142.044,AKABIRA-CITY1,Japan,Asia,2023-03-26T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+350756,Influenza - Avian,;H5N1 HPAI;,42.8208,141.6508,Chitose-City2,Japan,Asia,2023-04-02T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351717,Influenza - Avian,;H5N1 HPAI;,42.9848,144.3813,KUSHIRO-CITY3,Japan,Asia,2023-03-10T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+349870,Influenza - Avian,;H5N1 HPAI;,42.8208,141.6508,Chitose-City1,Japan,Asia,2023-03-27T00:00:00Z,2023-03-31T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350771,Influenza - Avian,;H5N1 HPAI;,42.8208,141.6508,Chitose-City3,Japan,Asia,2023-04-06T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+348554,Influenza - Avian,;H5N1 HPAI;,45.9365,15.4805,KRŠKO,Slovenia,Europe,2023-03-14T00:00:00Z,2023-03-21T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352256,Influenza - Avian,;H5N1 HPAI;,-32.7451,-71.18,Sector Santa Ana,Chile,Americas,2023-04-19T00:00:00Z,2023-04-28T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+350235,Influenza - Avian,;HPAI;,-32.7501,-71.2442,Sector Pucalan 6,Chile,Americas,2023-03-29T00:00:00Z,2023-04-04T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+352219,Influenza - Avian,;H5 HPAI;,-32.915378,-71.50788,Playa la Boca (Concón),Chile,Americas,2023-03-29T00:00:00Z,2023-04-24T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+347349,Influenza - Avian,;H5N1 HPAI;,-33.8013,-71.7258,Estero El Yali,Chile,Americas,2023-02-20T00:00:00Z,2023-03-03T00:00:00Z,"Wild,Swan,",OIE,,,Confirmed
+350234,Influenza - Avian,;HPAI;,-32.7515,-71.2476,Sector La Piedra,Chile,Americas,2023-03-29T00:00:00Z,2023-04-04T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+349395,Influenza - Avian,;H5 HPAI;,-33.019,-71.6425,PLAYA CARVALLO,Chile,Americas,2023-03-19T00:00:00Z,2023-03-27T00:00:00Z,"Wild,South American sea lion (Otaria flavescens),",OIE,,,Confirmed
+351256,Influenza - Avian,;HPAI;,-32.7151,-71.1879,Sector Melon,Chile,Americas,2023-04-12T00:00:00Z,2023-04-17T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+351493,Influenza - Avian,;H5N1 HPAI;,-32.804,-71.052,Sector Los Tilos. Comuna de Hijuelas,Chile,Americas,2023-04-16T00:00:00Z,2023-04-19T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+348086,Influenza - Avian,;H5N1 HPAI;,36.4574,140.4868,NAKA-CITY2,Japan,Asia,2023-02-27T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Whooper Swan:Cygnus cygnus(Anatidae),",OIE,,,Confirmed
+348088,Influenza - Avian,;H5N1 HPAI;,36.2392,140.3526,OMITAMA-CITY2,Japan,Asia,2023-02-24T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Whooper Swan:Cygnus cygnus(Anatidae),",OIE,,,Confirmed
+348085,Influenza - Avian,;H5N1 HPAI;,36.2392,140.3526,OMITAMA-CITY3,Japan,Asia,2023-03-01T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Whooper Swan:Cygnus cygnus(Anatidae),",OIE,,,Confirmed
+348087,Influenza - Avian,;H5N1 HPAI;,36.4087,136.4457,KOMATSU-CITY1,Japan,Asia,2023-02-27T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+350829,Influenza - Avian,;H5N1 HPAI;,35.62508,126.89203,"JEONGUNAM-RO, JEONGU-MYEON, JEONGEUP-SI, JEOLLABUK-DO",Republic of Korea,Asia,2023-02-23T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350828,Influenza - Avian,;H5N1 HPAI;,35.587738,126.804291,"YEONGWON-RO, JEONGEUP-SI, JEOLLABUK-DO",Republic of Korea,Asia,2023-02-23T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350830,Influenza - Avian,;H5N1 HPAI;,35.816667,127.15,"GALMA-RI, BUSEOK-MYEON, SEOSAN-SI, CHUNGCHEONGNAM-DO",Republic of Korea,Asia,2023-02-21T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350825,Influenza - Avian,;H5N1 HPAI;,35.579608,126.773075,"IPGO-RO, SOSEONG-MYEON, JEONGEUP-SI, JEOLLABUK-DO",Republic of Korea,Asia,2023-03-08T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350831,Influenza - Avian,;H5N1 HPAI;,35.570394,126.797041,"DEUNGGYE-RI, SOSEONG-MYEON, JEONGEUP-SI, JEOLLABUK-DO",Republic of Korea,Asia,2023-02-21T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351706,Influenza - Avian,;H5N1 HPAI;,39.702,141.1545,MORIOKA-CITY3,Japan,Asia,2023-03-19T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+348910,Influenza - Avian,;H5N1 HPAI;,39.1957,141.1163,KANEGASAKI-TOWN1,Japan,Asia,2023-03-13T00:00:00Z,2023-03-23T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351710,Influenza - Avian,;H5N1 HPAI;,39.702,141.1545,MORIOKA-CITY2,Japan,Asia,2023-03-16T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Corvidae (incognita),",OIE,,,Confirmed
+350824,Influenza - Avian,;H5N1 HPAI;,34.964509,126.679063,"DEOKSAN-GIL, WANGGOK-MYEON, NAJU-SI, JEOLLANAM-DO",Republic of Korea,Asia,2023-04-01T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350823,Influenza - Avian,;H5N1 HPAI;,34.957339,126.72121,"SEYEONG-RO, SEJI-MYEON, NAJU-SI, JEOLLANAM-DO",Republic of Korea,Asia,2023-04-07T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351712,Influenza - Avian,;H5N1 HPAI;,35.5714,139.3731,SAGAMIHARA-CITY4,Japan,Asia,2023-03-15T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+351720,Influenza - Avian,;H5N1 HPAI;,35.5714,139.3731,SAGAMIHARA-CITY1,Japan,Asia,2023-03-03T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+351715,Influenza - Avian,;H5N1 HPAI;,35.5714,139.3731,SAGAMIHARA-CITY2,Japan,Asia,2023-03-10T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+351714,Influenza - Avian,;H5N1 HPAI;,35.5714,139.3731,SAGAMIHARA-CITY3,Japan,Asia,2023-03-10T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+350747,Influenza - Avian,;H3N8 HPAI;,22.889451,112.430983,Guangdong Sheng,China,Asia,2023-02-22T00:00:00Z,2023-03-27T00:00:00Z,,WHO,1,1,Confirmed
+350832,Influenza - Avian,;H5N1 HPAI;,38.006886,126.962683,"GUMI-RI, BAEKHAK-MYEON, YEONCHEON-GUN, GYEONGGI-DO",Republic of Korea,Asia,2023-02-21T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350826,Influenza - Avian,;H5N1 HPAI;,37.789255,126.381477,"INHWA-RO, YANGSA-MYEON, GANGHWA-GUN, INCHEON",Republic of Korea,Asia,2023-03-07T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350827,Influenza - Avian,;H5N1 HPAI;,36.408308,128.237441,"YEONGNAMJEIL-RO, NAKDONG-MYEON, SANGJU-SI, GYEONGSANGBUK-DO",Republic of Korea,Asia,2023-02-27T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348091,Influenza - Avian,;H5N1 HPAI;,38.2682,140.8693,SENDAI-CITY4,Japan,Asia,2023-02-17T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Whooper Swan:Cygnus cygnus(Anatidae),",OIE,,,Confirmed
+348089,Influenza - Avian,;H5N1 HPAI;,38.7302,141.021,KURIHARA-CITY4,Japan,Asia,2023-02-23T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Goshawk,",OIE,,,Confirmed
+347769,Influenza - Avian,;H5N1 HPAI;,15.805,-87.5416,Tela Atlantida,Honduras,Americas,2023-02-22T00:00:00Z,2023-03-12T00:00:00Z,"Wild,Brown pelican (Pelecanus occidentalis),",OIE,,,Confirmed
+350816,Influenza - Avian,;HPAI;,-6.863998,107.616626,Jawa Barat,Indonesia,Asia,,2023-04-13T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+351703,Influenza - Avian,;H5N1 HPAI;,38.224,139.48,MURAKAMI-CITY6,Japan,Asia,2023-03-27T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+348911,Influenza - Avian,;H5N1 HPAI;,38.0595,139.4103,Tainai-City2,Japan,Asia,2023-03-11T00:00:00Z,2023-03-23T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351705,Influenza - Avian,;H5N1 HPAI;,38.224,139.48,MURAKAMI-CITY5,Japan,Asia,2023-03-24T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+347770,Influenza - Avian,;H5N1 HPAI;,38.0595,139.4103,Tainai-City1,Japan,Asia,2023-03-05T00:00:00Z,2023-03-10T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348083,Influenza - Avian,;H5N1 HPAI;,37.9478,139.327,SHIBATA-CITY2,Japan,Asia,2023-02-27T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+351700,Influenza - Avian,;H5N1 HPAI;,38.0596,139.4105,TAINAI-CITY3,Japan,Asia,2023-03-24T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+351709,Influenza - Avian,;H5N1 HPAI;,38.0596,139.4105,TAINAI-CITY2,Japan,Asia,2023-03-16T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Large-billed Crow (Corvus macrorhynchos),",OIE,,,Confirmed
+350481,Influenza - Avian,;H5N1 HPAI;,61.602,-149.107,MATANUSKA-SUSITNA BOROUGH,United States of America,Americas,2023-03-16T00:00:00Z,2023-04-06T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+350885,Influenza - Avian,;H5N1 HPAI;,35.199,-111.646,COCONINO COUNTY,United States of America,Americas,2023-03-20T00:00:00Z,2023-04-13T00:00:00Z,"Wild,Condor,",OIE,,,Confirmed
+351689,Influenza - Avian,;H5N1 HPAI;,41.483,-120.54,MODOC COUNTY,United States of America,Americas,2023-04-05T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350887,Influenza - Avian,;H5N1 HPAI;,41.753,-124.203,DEL NORTE COUNTY,United States of America,Americas,2023-03-21T00:00:00Z,2023-04-13T00:00:00Z,"Wild,Gull,",OIE,,,Confirmed
+350819,Influenza - Avian,;HPAI;,0.707978,101.580735,Riau,Indonesia,Asia,,2023-04-13T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+349876,Influenza - Avian,;H5N1 HPAI;,39.613,-105.014,ARAPAHOE COUNTY,United States of America,Americas,2023-03-16T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350889,Influenza - Avian,;H5N1 HPAI;,38.539,-105.999,CHAFFEE COUNTY,United States of America,Americas,2023-03-23T00:00:00Z,2023-04-13T00:00:00Z,"Wild,Skunk (Mephitis mephitis),",OIE,,,Confirmed
+351691,Influenza - Avian,;H5N1 HPAI;,38.271,-104.615,PUEBLO COUNTY,United States of America,Americas,2023-04-06T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351688,Influenza - Avian,;H5N1 HPAI;,40.514,-107.55,MOFFAT COUNTY,United States of America,Americas,2023-04-12T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351693,Influenza - Avian,;H5N1 HPAI;,40.015,-105.289,BOULDER COUNTY,United States of America,Americas,2023-03-30T00:00:00Z,2023-04-20T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+349862,Influenza - Avian,;H5N1 HPAI;,40.118,-102.717,Yuma County,United States of America,Americas,2023-03-23T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349863,Influenza - Avian,;H5N1 HPAI;,27.996,-82.449,Hillsborough County,United States of America,Americas,2023-03-17T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351719,Influenza - Avian,;H5N1 HPAI;,36.5552,139.8825,UTSUNOMIYA-CITY2,Japan,Asia,2023-03-06T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Goshawk,",OIE,,,Confirmed
+348093,Influenza - Avian,;H5N1 HPAI;,36.5552,139.8825,UTSUNOMIYA-CITY1,Japan,Asia,2023-02-17T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Goshawk,",OIE,,,Confirmed
+348090,Influenza - Avian,;H5N1 HPAI;,36.4404,140.0122,MOKA-CITY1,Japan,Asia,2023-02-21T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Corvidae (incognita),",OIE,,,Confirmed
+348364,Influenza - Avian,;H5N1 HPAI;,56.03192,12.13398,Ramløse,Denmark,Europe,2023-03-16T00:00:00Z,2023-03-17T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352353,Influenza - Avian,;H5 HPAI;,-33.6,18.85,HPAI_H5_2023_003,South Africa,Africa,2023-04-25T00:00:00Z,2023-05-04T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352354,Influenza - Avian,;H5 HPAI;,-33.6,18.9,HPAI_H5_2023_002,South Africa,Africa,2023-04-21T00:00:00Z,2023-05-04T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351687,Influenza - Avian,;H5N1 HPAI;,43.495,-112.041,BONNEVILLE COUNTY,United States of America,Americas,2023-04-10T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352458,Influenza - Avian,;H9N2 HPAI;,13.045026,3.214744,Commune Urbain de Dosso,Niger,Africa,,2023-02-23T00:00:00Z,"Domestic,Guinea fowl,",National authorities,,,Confirmed
+353037,Influenza - Avian,;H5N1 HPAI;,37.932,-87.895,Posey County,United States of America,Americas,2023-05-02T00:00:00Z,2023-05-11T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349337,Influenza - Avian,;H5N1 HPAI;,23.87005,120.28614,Dacheng Township,Taiwan (Province of China),Asia,2023-03-04T00:00:00Z,2023-03-25T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+349334,Influenza - Avian,;H5N1 HPAI;,23.44125,120.25551,Puzi City,Taiwan (Province of China),Asia,2023-02-23T00:00:00Z,2023-03-25T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+349335,Influenza - Avian,;H5N1 HPAI;,23.81379,120.38654,Erlun Township,Taiwan (Province of China),Asia,2023-03-23T00:00:00Z,2023-03-25T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350640,Influenza - Avian,;H5N1 HPAI;,23.89906,120.31018,Fangyuan Township,Taiwan (Province of China),Asia,2023-03-20T00:00:00Z,2023-04-10T00:00:00Z,"Domestic,Duck,",OIE,,,Confirmed
+352786,Influenza - Avian,;H5N1 HPAI;,23.86662,120.41345,ZHUTANG TOWNSHIP,Taiwan (Province of China),Asia,2023-03-24T00:00:00Z,2023-05-09T00:00:00Z,"Domestic,Duck,",OIE,,,Confirmed
+349336,Influenza - Avian,;H5N1 HPAI;,23.52971,120.24676,Liujian Township,Taiwan (Province of China),Asia,2023-02-25T00:00:00Z,2023-03-25T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351226,Influenza - Avian,;H5N1 HPAI;,24.83564,121.06331,XINPU TOWNSHIP,Taiwan (Province of China),Asia,2023-03-28T00:00:00Z,2023-04-17T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351227,Influenza - Avian,;H5N1 HPAI;,24.0885,120.7382,DALI DISTRICT,Taiwan (Province of China),Asia,2023-03-28T00:00:00Z,2023-04-17T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350641,Influenza - Avian,;H5N1 HPAI;,23.71835,120.22916,Taixi Township,Taiwan (Province of China),Asia,2023-03-19T00:00:00Z,2023-04-10T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+349332,Influenza - Avian,;H5N1 HPAI;,22.70262,120.26261,Zuoying District,Taiwan (Province of China),Asia,2023-02-22T00:00:00Z,2023-03-25T00:00:00Z,"Wild,Whiskered tern,",OIE,,,Confirmed
+349333,Influenza - Avian,;H5N1 HPAI;,22.829102,120.518408,Ligang Township,Taiwan (Province of China),Asia,2023-03-13T00:00:00Z,2023-03-25T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351228,Influenza - Avian,;H5N1 HPAI;,23.851499,120.309299,DACHENG TOWNSHIP,Taiwan (Province of China),Asia,2023-03-28T00:00:00Z,2023-04-17T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+352787,Influenza - Avian,;H5N1 HPAI;,23.3455,120.19,Budai Township,Taiwan (Province of China),Asia,2023-04-11T00:00:00Z,2023-05-09T00:00:00Z,"Wild,Black-faced spoonbill (Platalea minor),",OIE,,,Confirmed
+349338,Influenza - Avian,;H5N1 HPAI;,23.84772,120.31119,Dacheng Township,Taiwan (Province of China),Asia,2023-03-12T00:00:00Z,2023-03-25T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+352784,Influenza - Avian,;H5N1 HPAI;,23.632677,120.388031,DAPI TOWNSHIP,Taiwan (Province of China),Asia,2023-04-24T00:00:00Z,2023-05-09T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+352785,Influenza - Avian,;H5N1 HPAI;,25.03067,121.48937,WANHUA DISTRICT,Taiwan (Province of China),Asia,2023-04-25T00:00:00Z,2023-05-09T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+352783,Influenza - Avian,;H5N1 HPAI;,24.800958,121.00979,EAST DISTRICT,Taiwan (Province of China),Asia,2023-04-20T00:00:00Z,2023-05-09T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352456,Influenza - Avian,;H5N1 HPAI;,13.6608,6.6958,Guidan Roumdji (Maradi),Niger,Africa,,2023-02-17T00:00:00Z,"Domestic,Chicken,",National authorities,,,Confirmed
+351390,Influenza - Avian,;H5N1 HPAI;,41.681358,-0.91243,Zaragoza,Spain,Europe,2023-03-02T00:00:00Z,2023-04-18T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),Wild,Jackdaw,",OIE,,,Confirmed
+352457,Influenza - Avian,;H5N1 HPAI;,13.511944,2.107778,Boukoki (Niamey II),Niger,Africa,,2023-02-20T00:00:00Z,"Domestic,Chicken,",National authorities,,,Confirmed
+345938,Influenza - Avian,;H5N1 HPAI;,13.547066,2.061216,"Koubia(Commune of Niamey 1,  district of Niamey 1, region of Niamey)",Niger,Africa,2023-02-18T00:00:00Z,2023-02-23T00:00:00Z,"Domestic,Unspecified bird,",FAO officer,,,Confirmed
+352447,Influenza - Avian,;H5N1 HPAI;,13.511944,2.140278,Niamey Commune 4,Niger,Africa,,2023-03-18T00:00:00Z,"Domestic,Guinea fowl,",National authorities,,,Confirmed
+350886,Influenza - Avian,;H5N1 HPAI;,39.459,-98.108,MITCHELL COUNTY,United States of America,Americas,2023-04-07T00:00:00Z,2023-04-13T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349877,Influenza - Avian,;H5N1 HPAI;,38.731,-98.232,ELLSWORTH COUNTY,United States of America,Americas,2023-03-22T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+353183,Influenza - Avian,;H5N1 HPAI;,-21.0366,-40.8176,Colônia Beach,Brazil,Americas,2023-05-10T00:00:00Z,2023-05-15T00:00:00Z,"Wild,Cabot's tern (Thalasseus acuflavidus),",National authorities,,,Confirmed
+353184,Influenza - Avian,;H5N1 HPAI;,-20.2904,-40.29,Camburi Beach,Brazil,Americas,2023-05-10T00:00:00Z,2023-05-15T00:00:00Z,"Wild,Cabot's tern (Thalasseus acuflavidus),",National authorities,,,Confirmed
+353188,Influenza - Avian,;H5N1 HPAI;,-20.3312,-40.3596,Instituto de Pesquisa e Reabilitação de Animais Marinhos,Brazil,Americas,2023-05-09T00:00:00Z,2023-05-15T00:00:00Z,"Wild,Booby (Pelecanus leucogaster),",National authorities,,,Confirmed
+348082,Influenza - Avian,;H5N1 HPAI;,46.598273,19.462954,BÓCSA,Hungary,Europe,2023-03-03T00:00:00Z,2023-03-16T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352002,Influenza - Avian,;H5N1 HPAI;,46.4164,19.437296,Kiskunhalas,Hungary,Europe,2023-04-21T00:00:00Z,2023-04-27T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+346673,Influenza - Avian,;H5N1 HPAI;,46.55637,19.521271,TÃ¡zlÃ¡r,Hungary,Europe,2023-02-17T00:00:00Z,2023-02-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350032,Influenza - Avian,;H5N1 HPAI;,46.41153,19.85248,CSÓLYOSPÁLOS,Hungary,Europe,2023-03-28T00:00:00Z,2023-04-03T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350121,Influenza - Avian,;H5N1 HPAI;,46.664167,19.838889,KISKUNFÉLEGYHÁZA,Hungary,Europe,2023-04-01T00:00:00Z,2023-04-04T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350758,Influenza - Avian,;H5N1 HPAI;,46.704927,19.688536,Bugac,Hungary,Europe,2023-04-08T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350030,Influenza - Avian,;H5N1 HPAI;,46.450524,19.779081,KISKUNMAJSA,Hungary,Europe,2023-03-29T00:00:00Z,2023-04-03T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350777,Influenza - Avian,;H5N1 HPAI;,46.448656,19.743515,Kiskunmajsa,Hungary,Europe,2023-04-05T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350775,Influenza - Avian,;H5N1 HPAI;,46.704927,19.688536,Bugac,Hungary,Europe,2023-04-08T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351893,Influenza - Avian,;H5N1 HPAI;,46.425183,19.55766,KISKUNHALAS,Hungary,Europe,2023-04-17T00:00:00Z,2023-04-25T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350123,Influenza - Avian,;H5N1 HPAI;,46.46447,19.76332,KISKUNMAJSA,Hungary,Europe,2023-03-31T00:00:00Z,2023-04-04T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350124,Influenza - Avian,;H5N1 HPAI;,46.403984,19.880357,CSÓLYOSPÁLOS,Hungary,Europe,2023-03-31T00:00:00Z,2023-04-04T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350778,Influenza - Avian,;H5N1 HPAI;,46.494361,19.78125,Kiskunmajsa,Hungary,Europe,2023-04-05T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346667,Influenza - Avian,;H5N1 HPAI;,46.57233,19.486939,TÃ¡zlÃ¡r,Hungary,Europe,2023-02-17T00:00:00Z,2023-02-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351890,Influenza - Avian,;H5N1 HPAI;,46.9169,19.4505,FÜLÖPHÁZA,Hungary,Europe,2023-04-19T00:00:00Z,2023-04-25T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348078,Influenza - Avian,;H5N1 HPAI;,46.537062,19.727489,KISKUNMAJSA,Hungary,Europe,2023-03-05T00:00:00Z,2023-03-16T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351258,Influenza - Avian,;H5N1 HPAI;,46.40849,19.574678,KISKUNHALAS,Hungary,Europe,2023-04-13T00:00:00Z,2023-04-18T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350125,Influenza - Avian,;H5N1 HPAI;,46.642973,19.896612,PET FISZÁLLÁS,Hungary,Europe,2023-03-31T00:00:00Z,2023-04-04T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350031,Influenza - Avian,;H5N1 HPAI;,46.40303,19.83628,CSÓLYOSPÁLOS,Hungary,Europe,2023-03-29T00:00:00Z,2023-04-03T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351891,Influenza - Avian,;H5N1 HPAI;,46.622916,19.537992,BÓCSA,Hungary,Europe,2023-04-18T00:00:00Z,2023-04-25T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350761,Influenza - Avian,;H5N1 HPAI;,46.494361,19.78125,Kiskunmajsa,Hungary,Europe,2023-04-05T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350028,Influenza - Avian,;H5N1 HPAI;,46.421357,19.851937,CSÓLYOSPÁLOS,Hungary,Europe,2023-03-28T00:00:00Z,2023-04-03T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350120,Influenza - Avian,;H5N1 HPAI;,46.59818,19.80455,PET FISZÁLLÁS,Hungary,Europe,2023-03-30T00:00:00Z,2023-04-04T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349632,Influenza - Avian,;H5N1 HPAI;,46.44453,19.84071,Csólyospálos,Hungary,Europe,2023-03-24T00:00:00Z,2023-03-29T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351259,Influenza - Avian,;H5N1 HPAI;,46.6094,19.5406,BÓCSA,Hungary,Europe,2023-04-12T00:00:00Z,2023-04-18T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350122,Influenza - Avian,;H5N1 HPAI;,46.403803,19.83463,CSÓLYOSPÁLOS,Hungary,Europe,2023-03-31T00:00:00Z,2023-04-04T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346671,Influenza - Avian,;H5N1 HPAI;,46.569793,19.692088,Szank,Hungary,Europe,2023-02-18T00:00:00Z,2023-02-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350117,Influenza - Avian,;H5N1 HPAI;,46.613303,19.868162,CSÓLYOSPÁLOS,Hungary,Europe,2023-04-02T00:00:00Z,2023-04-04T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348080,Influenza - Avian,;H5N1 HPAI;,46.635031,19.545341,BÓCSA,Hungary,Europe,2023-03-01T00:00:00Z,2023-03-16T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350034,Influenza - Avian,;H5N1 HPAI;,46.544094,19.746475,KISKUNMAJSA,Hungary,Europe,2023-03-28T00:00:00Z,2023-04-03T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351260,Influenza - Avian,;H5N1 HPAI;,46.345334,19.405583,KUNFEHÉRTÓ,Hungary,Europe,2023-04-12T00:00:00Z,2023-04-18T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350033,Influenza - Avian,;H5N1 HPAI;,46.589123,19.752358,JÁSZSZENTLÁSZLÓ,Hungary,Europe,2023-03-28T00:00:00Z,2023-04-03T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346672,Influenza - Avian,;H5N1 HPAI;,46.561767,19.663297,Szank,Hungary,Europe,2023-02-17T00:00:00Z,2023-02-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351261,Influenza - Avian,;H5N1 HPAI;,46.346178,19.407121,KUNFEHÉRTÓ,Hungary,Europe,2023-04-11T00:00:00Z,2023-04-18T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351892,Influenza - Avian,;H5N1 HPAI;,46.415899,19.417376,KISKUNHALAS,Hungary,Europe,2023-04-18T00:00:00Z,2023-04-25T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351262,Influenza - Avian,;H5N1 HPAI;,46.34817,19.40526,KUNFEHÉRTÓ,Hungary,Europe,2023-04-11T00:00:00Z,2023-04-18T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351888,Influenza - Avian,;H5N1 HPAI;,46.918392,19.439,KEREKEGYHÁZA,Hungary,Europe,2023-04-21T00:00:00Z,2023-04-25T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350119,Influenza - Avian,;H5N1 HPAI;,46.47742,19.86487,KÖMPÖC,Hungary,Europe,2023-04-01T00:00:00Z,2023-04-04T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350118,Influenza - Avian,;H5N1 HPAI;,46.613303,19.868162,PET FISZÁLLÁS,Hungary,Europe,2023-04-02T00:00:00Z,2023-04-04T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350760,Influenza - Avian,;H5N1 HPAI;,46.448656,19.743515,Kiskunmajsa,Hungary,Europe,2023-04-05T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350029,Influenza - Avian,;H5N1 HPAI;,46.423886,19.854827,CSÓLYOSPÁLOS,Hungary,Europe,2023-03-28T00:00:00Z,2023-04-03T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351889,Influenza - Avian,;H5N1 HPAI;,46.429513,19.437763,KISKUNHALAS,Hungary,Europe,2023-04-20T00:00:00Z,2023-04-25T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349881,Influenza - Avian,;H5N1 HPAI;,41.39944,-5.263347,Castroñudo,Spain,Europe,2023-03-15T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Eurasian Eagle-Owl:Bubo bubo(Strigidae),",OIE,,,Confirmed
+349880,Influenza - Avian,;H5N1 HPAI;,42.479602,-5.870352,Santa Marina del Rey,Spain,Europe,2023-03-16T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Stork,",OIE,,,Confirmed
+351391,Influenza - Avian,;H5N1 HPAI;,38.883575,-3.842351,Pozuelo de Calatrava,Spain,Europe,2023-03-16T00:00:00Z,2023-04-18T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351392,Influenza - Avian,;H5N1 HPAI;,41.63038,0.579541,Lleida,Spain,Europe,2023-03-14T00:00:00Z,2023-04-18T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348907,Influenza - Avian,;H5N1 HPAI;,41.713736,0.859166,LINYOLA,Spain,Europe,2023-03-02T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348908,Influenza - Avian,;H5N1 HPAI;,41.680581,0.937286,VILA-SANA,Spain,Europe,2023-03-02T00:00:00Z,2023-03-22T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349864,Influenza - Avian,;H5N1 HPAI;,43.068,-83.319,Lapeer County,United States of America,Americas,2023-03-21T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348576,Influenza - Avian,;H5N1 HPAI;,42.582,-84.847,Eaton County,United States of America,Americas,2023-03-08T00:00:00Z,2023-03-16T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350781,Influenza - Avian,;H5N1 HPAI;,46.3571,19.8867,FORRÁSKÚT,Hungary,Europe,2023-04-06T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350763,Influenza - Avian,;H5N1 HPAI;,46.341487,19.959773,ZSOMBÓ,Hungary,Europe,2023-04-07T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352911,Influenza - Avian,;H5N1 HPAI;,46.478511,20.305454,Hódmez vásárhely,Hungary,Europe,2023-04-09T00:00:00Z,2023-05-08T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351677,Influenza - Avian,;H5N1 HPAI;,46.359048,19.888786,FORRÁSKÚT,Hungary,Europe,2023-04-17T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350759,Influenza - Avian,;H5N1 HPAI;,46.550095,19.79999,Jászszentlászló,Hungary,Europe,2023-04-08T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351678,Influenza - Avian,;H5N1 HPAI;,46.304143,19.772469,RUZSA,Hungary,Europe,2023-04-12T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350784,Influenza - Avian,;H5N1 HPAI;,46.542347,19.907308,KISTELEK,Hungary,Europe,2023-04-03T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351680,Influenza - Avian,;H5N1 HPAI;,46.548497,19.966441,PUSZTASZER,Hungary,Europe,2023-04-11T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350785,Influenza - Avian,;H5N1 HPAI;,46.548347,19.91789,KISTELEK,Hungary,Europe,2023-04-03T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350891,Influenza - Avian,;H5N1 HPAI;,46.478511,20.305454,BO ETICE,Hungary,Europe,2023-04-04T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350776,Influenza - Avian,;H5N1 HPAI;,46.550095,19.79999,Jászszentlászló,Hungary,Europe,2023-04-08T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350783,Influenza - Avian,;H5N1 HPAI;,46.536924,19.903893,CSENGELE,Hungary,Europe,2023-04-03T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350240,Influenza - Avian,;H5N1 HPAI;,46.4382,19.9365,BALÁSTYA,Hungary,Europe,2023-04-02T00:00:00Z,2023-04-05T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350782,Influenza - Avian,;H5N1 HPAI;,46.362527,19.889847,FORRÁSKÚT,Hungary,Europe,2023-04-06T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350768,Influenza - Avian,;H5N1 HPAI;,46.548347,19.91789,KISTELEK,Hungary,Europe,2023-04-03T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350766,Influenza - Avian,;H5N1 HPAI;,46.536924,19.903893,CSENGELE,Hungary,Europe,2023-04-03T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350767,Influenza - Avian,;H5N1 HPAI;,46.542347,19.907308,KISTELEK,Hungary,Europe,2023-04-03T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350765,Influenza - Avian,;H5N1 HPAI;,46.362527,19.889847,FORRÁSKÚT,Hungary,Europe,2023-04-06T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351679,Influenza - Avian,;H5N1 HPAI;,46.547825,19.964732,PUSZTASZER,Hungary,Europe,2023-04-11T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350764,Influenza - Avian,;H5N1 HPAI;,46.3571,19.8867,FORRÁSKÚT,Hungary,Europe,2023-04-06T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350779,Influenza - Avian,;H5N1 HPAI;,46.478511,20.305454,HÓDMEZ VÁSÁRHELY,Hungary,Europe,2023-04-09T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350239,Influenza - Avian,;H5N1 HPAI;,46.3471,19.94114,ZSOMBÓ,Hungary,Europe,2023-04-04T00:00:00Z,2023-04-05T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350780,Influenza - Avian,;H5N1 HPAI;,46.341487,19.959773,ZSOMBÓ,Hungary,Europe,2023-04-07T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350762,Influenza - Avian,;H5N1 HPAI;,46.478511,20.305454,HÓDMEZ VÁSÁRHELY,Hungary,Europe,2023-04-09T00:00:00Z,2023-04-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350035,Influenza - Avian,;H5N1 HPAI;,46.5547,19.9839,Pusztaszer,Hungary,Europe,2023-04-01T00:00:00Z,2023-04-03T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350238,Influenza - Avian,;H5N1 HPAI;,46.5553,19.9003,CSENGELE,Hungary,Europe,2023-04-04T00:00:00Z,2023-04-05T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350484,Influenza - Avian,;H5N1 HPAI;,44.389,-93.732,Le Sueur County,United States of America,Americas,2023-03-28T00:00:00Z,2023-04-05T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352699,Influenza - Avian,;H5N1 HPAI;,47.168934,18.414137,Székesfehérvár,Hungary,Europe,2023-04-25T00:00:00Z,2023-05-08T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352698,Influenza - Avian,;H5N1 HPAI;,47.231792,18.547175,Pákozd,Hungary,Europe,2023-05-04T00:00:00Z,2023-05-08T00:00:00Z,"Wild,Hooded Crow (Corvus cornix),",OIE,,,Confirmed
+353165,Influenza - Avian,;H5N1 HPAI;,47.167156,18.415212,Székesfehérvár,Hungary,Europe,2023-05-10T00:00:00Z,2023-05-12T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),Wild,Mediterranean Gull ,",OIE,,,Confirmed
+351816,Influenza - Avian,;H5N1 HPAI;,47.20291,18.396463,Székesfehérvár,Hungary,Europe,2023-04-20T00:00:00Z,2023-04-25T00:00:00Z,"Wild,Brown-headed gull (Chroicocephalus brunnicephalus),",OIE,,,Confirmed
+345346,Influenza - Avian,;H5N1 HPAI;,31.86785,-90.42683,Copiah,United States of America,Americas,2023-02-17T00:00:00Z,2023-02-17T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+352924,Influenza - Avian,;H5N1 HPAI;,47.364047,21.269702,Kaba,Hungary,Europe,2023-05-04T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Stork,",OIE,,,Confirmed
+352925,Influenza - Avian,;H5N1 HPAI;,47.574318,21.028395,Hortobágy,Hungary,Europe,2023-05-04T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Stork,",OIE,,,Confirmed
+352918,Influenza - Avian,;H5N1 HPAI;,46.265,-106.68,ROSEBUD COUNTY,United States of America,Americas,2023-04-13T00:00:00Z,2023-05-09T00:00:00Z,"Wild,Skunk (Mephitis mephitis),",OIE,,,Confirmed
+352917,Influenza - Avian,;H5N1 HPAI;,45.294,-111.943,MADISON COUNTY,United States of America,Americas,2023-04-14T00:00:00Z,2023-05-09T00:00:00Z,"Wild,Cougar (Puma concolor),",OIE,,,Confirmed
+348574,Influenza - Avian,;H5N1 HPAI;,47.693,-114.166,Lake County,United States of America,Americas,2023-02-28T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Common raccoon (Procyon lotor),",OIE,,,Confirmed
+348575,Influenza - Avian,;H5N1 HPAI;,46.41,-105.843,Custer county,United States of America,Americas,2023-02-28T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Skunk (Mephitis mephitis),",OIE,,,Confirmed
+351692,Influenza - Avian,;H5N1 HPAI;,46.268,-106.675,ROSEBUD COUNTY,United States of America,Americas,2023-04-05T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349878,Influenza - Avian,;H5N1 HPAI;,45.676,-111.01,GALLATIN COUNTY,United States of America,Americas,2023-03-17T00:00:00Z,2023-03-30T00:00:00Z,"Wild,Skunk (Mephitis mephitis),",OIE,,,Confirmed
+350482,Influenza - Avian,;H5N1 HPAI;,40.689,-99.082,BUFFALO COUNTY,United States of America,Americas,2023-03-30T00:00:00Z,2023-04-06T00:00:00Z,"Domestic,Cats,",OIE,,,Confirmed
+352915,Influenza - Avian,;H5N1 HPAI;,42.583,-99.536,ROCK COUNTY,United States of America,Americas,2023-03-27T00:00:00Z,2023-05-09T00:00:00Z,"Wild,Cougar (Puma concolor),",OIE,,,Confirmed
+351690,Influenza - Avian,;H5N1 HPAI;,42.718,-102.46,SHERIDAN COUNTY,United States of America,Americas,2023-04-08T00:00:00Z,2023-04-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346731,Influenza - Avian,;H5N1 HPAI;,41.136,-100.763,Lincoln County,United States of America,Americas,2023-02-17T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348573,Influenza - Avian,;H5N1 HPAI;,41.134,-100.751,Lincoln County,United States of America,Americas,2023-02-24T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Skunk (Mephitis mephitis),",OIE,,,Confirmed
+346708,Influenza - Avian,;H5N1 HPAI;,46.9317,26.3426,DOAMNA OANTU,Romania,Europe,2023-02-21T00:00:00Z,2023-02-24T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+349868,Influenza - Avian,;H5N1 HPAI;,46.9319,26.3431,DOAMNA OANTU,Romania,Europe,2023-03-27T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+352701,Influenza - Avian,;H5N1 HPAI;,4.8425,6.9545,AIDRITZO FARM,Nigeria,Africa,2023-04-26T00:00:00Z,2023-05-06T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347231,Influenza - Avian,;H5 HPAI;,-38.04594,-57.8241,Mar de la Plata,Argentina,Americas,2023-03-03T00:00:00Z,2023-03-06T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+352252,Influenza - Avian,;H5 HPAI;,-34.85651,-58.345436,ALMIRANTE BROWN,Argentina,Americas,2023-04-20T00:00:00Z,2023-04-28T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346195,Influenza - Avian,;H5 HPAI;,-36.4065,-62.80858,Trees Lomas,Argentina,Americas,2023-02-23T00:00:00Z,2023-02-25T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+348552,Influenza - Avian,;H5 HPAI;,-35.38236,-58.83003,BERRA BUENOS AIRES- TRASPATIO - FRANCISCO BERRA,Argentina,Americas,2023-03-09T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348545,Influenza - Avian,;H5 HPAI;,-36.97864,-57.15243,GENERAL MADARIAGA BUENOS AIRES- TRASPATIO - GENERAL MADARIAGA,Argentina,Americas,2023-03-13T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349555,Influenza - Avian,;H5 HPAI;,-36.529,-57.34,General Conesa,Argentina,Americas,2023-03-17T00:00:00Z,2023-03-28T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346787,Influenza - Avian,;H5 HPAI;,-36.07417,-59.07298,Las Flores,Argentina,Americas,2023-02-24T00:00:00Z,2023-03-02T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+348547,Influenza - Avian,;H5 HPAI;,-39.48708,-62.68335,PEDRO LURO BUENOS AIRES- TRASPATIO - PEDRO LURO,Argentina,Americas,2023-03-13T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346176,Influenza - Avian,;H5 HPAI;,-36.90228,-59.8037,Azul,Argentina,Americas,2023-02-23T00:00:00Z,2023-02-26T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+352249,Influenza - Avian,;H5 HPAI;,-33.89367,-60.69711,PERGAMINO,Argentina,Americas,2023-04-21T00:00:00Z,2023-04-28T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351926,Influenza - Avian,;H5 HPAI;,-34.50528,-58.88417,Pilar,Argentina,Americas,2023-04-23T00:00:00Z,2023-04-25T00:00:00Z,"Domestic,Chicken,",National authorities,,,Confirmed
+350074,Influenza - Avian,;H5 HPAI;,-35.95611,-58.73683,General Belgrano,Argentina,Americas,2023-03-24T00:00:00Z,2023-04-01T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+350022,Influenza - Avian,;H5 HPAI;,-35.08456,-59.03253,Lobos,Argentina,Americas,2023-03-28T00:00:00Z,2023-04-01T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+353170,Influenza - Avian,;H5 HPAI;,-34.49607,-58.89526,Pilar,Argentina,Americas,2023-05-03T00:00:00Z,2023-05-12T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+347776,Influenza - Avian,;H5 HPAI;,-36.66629,-59.22199,RAUCH,Argentina,Americas,2023-02-20T00:00:00Z,2023-03-09T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+348549,Influenza - Avian,;H5 HPAI;,-36.27949,-57.39065,GENERAL CONESA BUENOS AIRES- TRASPATIO - GENERAL CONESA,Argentina,Americas,2023-03-11T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346064,Influenza - Avian,;H5 HPAI;,-36.47324,-57.34909,General Conesa,Argentina,Americas,2023-03-07T00:00:00Z,2023-03-14T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346194,Influenza - Avian,;H5 HPAI;,-38.15595,-59.64585,San Cayetano,Argentina,Americas,2023-02-23T00:00:00Z,2023-02-25T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+347784,Influenza - Avian,;H5 HPAI;,-38.78775,-62.26203,BAHIA BLANCA,Argentina,Americas,2023-02-28T00:00:00Z,2023-03-09T00:00:00Z,"Wild,Anatidae (incognita),",OIE,,,Confirmed
+348057,Influenza - Avian,;H5 HPAI;,-37.46847,-62.75846,Puan,Argentina,Americas,2023-02-20T00:00:00Z,2023-02-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346786,Influenza - Avian,;H5 HPAI;,-35.9923,-60.05522,General Alvear,Argentina,Americas,2023-02-24T00:00:00Z,2023-03-02T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+348548,Influenza - Avian,;H5 HPAI;,-36.46904,-57.43139,GENERAL CONESA BUENOS AIRES- TRASPATIO - GENERAL CONESA,Argentina,Americas,2023-03-13T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+353169,Influenza - Avian,;H5 HPAI;,-34.5006,-58.89023,Pilar,Argentina,Americas,2023-05-08T00:00:00Z,2023-05-12T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351696,Influenza - Avian,;H5N1 HPAI;,36.726,-108.243,SAN JUAN COUNTY,United States of America,Americas,2023-03-10T00:00:00Z,2023-04-20T00:00:00Z,"Wild,Skunk (Mephitis mephitis),",OIE,,,Confirmed
+350884,Influenza - Avian,;H5N1 HPAI;,40.715,-73.826,Queens County,United States of America,Americas,2023-03-31T00:00:00Z,2023-04-13T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349865,Influenza - Avian,;H5N1 HPAI;,40.726,-73.756,Queens County,United States of America,Americas,2023-03-20T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351809,Influenza - Avian,;H5N1 HPAI;,41.427,-73.679,PUTNAM,United States of America,Americas,2023-04-07T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351808,Influenza - Avian,;H5N1 HPAI;,41.4298,-73.6794,PUTNAM COUNTY,United States of America,Americas,2023-04-15T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349873,Influenza - Avian,;H5N1 HPAI;,43.287,-73.588,WASHINGTON COUNTY,United States of America,Americas,2023-03-13T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351694,Influenza - Avian,;H5N1 HPAI;,42.086,-78.45,CATTARAUGUS COUNTY,United States of America,Americas,2023-04-10T00:00:00Z,2023-04-20T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+345347,Influenza - Avian,;H5N1 HPAI;,42.20428,-76.31068,Tioga,United States of America,Americas,2023-02-17T00:00:00Z,2023-02-17T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+349861,Influenza - Avian,;H5N1 HPAI;,42.4293,-76.5089,Tompkins County,United States of America,Americas,2023-03-19T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350890,Influenza - Avian,;H5N1 HPAI;,42.442,-76.499,TOMPKINS COUNTY,United States of America,Americas,2023-04-06T00:00:00Z,2023-04-13T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+351805,Influenza - Avian,;H5N1 HPAI;,40.663,-73.931,KINGS COUNTY,United States of America,Americas,2023-04-14T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347230,Influenza - Avian,;H5 HPAI;,-26.6106,-60.7202,Avia Terai,Argentina,Americas,2023-03-01T00:00:00Z,2023-03-16T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+348551,Influenza - Avian,;H5 HPAI;,-26.68111,-60.72653,AVIA TERAI CHACO- TRASPATIO - AVIA TERAI,Argentina,Americas,2023-03-10T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352502,Influenza - Avian,;H5 HPAI;,-27.41668,-59.02865,Resistencia,Argentina,Americas,2023-04-30T00:00:00Z,2023-05-05T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+347241,Influenza - Avian,;H5N1 HPAI;,2.96573,-78.1731,Parque Nacional Natural Gorgona,Colombia,Americas,2023-02-18T00:00:00Z,2023-03-01T00:00:00Z,"Wild,Brown pelican (Pelecanus occidentalis),",National authorities,,,Confirmed
+351807,Influenza - Avian,;H5N1 HPAI;,45.995,-98.526,DICKEY COUNTY,United States of America,Americas,2023-04-15T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351810,Influenza - Avian,;H5 HPAI;,-45.3259,-69.0711,Sarmiento,Argentina,Americas,2023-04-17T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Black-necked swan (Cygnus melancoryphus),",OIE,,,Confirmed
+350076,Influenza - Avian,;H5 HPAI;,-43.334,-65.4345,Gaiman,Argentina,Americas,2023-04-01T00:00:00Z,2023-04-01T00:00:00Z,"Domestic,Chicken,",National authorities,,,Confirmed
+352253,Influenza - Avian,;H5 HPAI;,-43.13071,-71.43777,TREVELIN,Argentina,Americas,2023-04-19T00:00:00Z,2023-04-28T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351229,Influenza - Avian,;H5 HPAI;,-42.7996,-65.08174,Puerto Madryn,Argentina,Americas,2023-04-11T00:00:00Z,2023-04-14T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+349152,Influenza - Avian,;H5 HPAI;,-43.26625,-65.17823,Rawson,Argentina,Americas,2023-03-20T00:00:00Z,2023-03-23T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+353168,Influenza - Avian,;H5 HPAI;,-43.30236,-65.3495,Trelew,Argentina,Americas,2023-05-08T00:00:00Z,2023-05-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351722,Influenza - Avian,;H5 HPAI;,-43.05213,-71.45945,Trevelin,Argentina,Americas,2023-03-30T00:00:00Z,2023-04-01T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349603,Influenza - Avian,;H5 HPAI;,-31.2222,-63.4999,Rio Primero,Argentina,Americas,2023-02-19T00:00:00Z,2023-02-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346789,Influenza - Avian,;H5 HPAI;,-29.78204,-64.65244,Tulumba,Argentina,Americas,2023-02-20T00:00:00Z,2023-03-02T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+346248,Influenza - Avian,;H5 HPAI;,-33.1442,-62.3004,Baldisera,Argentina,Americas,2023-02-18T00:00:00Z,2023-02-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347101,Influenza - Avian,;H5 HPAI;,-33.9814,-64.09017,La Cautiva,Argentina,Americas,2023-03-02T00:00:00Z,2023-03-04T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+347773,Influenza - Avian,;H5 HPAI;,-34.23677,-62.97652,COLONIA LEGUIZAMON,Argentina,Americas,2023-02-17T00:00:00Z,2023-03-09T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+348553,Influenza - Avian,;H5 HPAI;,-31.58601,-65.0533,LOS MORTERITOS CORDOBA - TRASPATIO - LOS MORTERITOS,Argentina,Americas,2023-03-10T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+344867,Influenza - Avian,;H5 HPAI;,-31.2222,-63.499,Alejo Ledesma,Argentina,Americas,2023-02-19T00:00:00Z,2023-02-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347777,Influenza - Avian,;H5 HPAI;,-32.91322,-63.8743,CARNERILLO,Argentina,Americas,2023-02-23T00:00:00Z,2023-03-09T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346788,Influenza - Avian,;H5 HPAI;,-31.5444,-63.5195,Villa dl Rosario,Argentina,Americas,2023-02-18T00:00:00Z,2023-02-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347778,Influenza - Avian,;H5 HPAI;,-33.95114,-64.01718,GENERAL LEVALLE,Argentina,Americas,2023-02-24T00:00:00Z,2023-03-09T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346065,Influenza - Avian,;H5 HPAI;,-34.5552,-64.5472,El Campillo,Argentina,Americas,2023-02-19T00:00:00Z,2023-02-22T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+348055,Influenza - Avian,;H5 HPAI;,-31.57579,-64.07424,Toledo,Argentina,Americas,2023-03-08T00:00:00Z,2023-03-14T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347781,Influenza - Avian,;H5 HPAI;,-34.33661,-63.98876,JOVITA,Argentina,Americas,2023-02-24T00:00:00Z,2023-03-09T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346196,Influenza - Avian,;H5 HPAI;,-33.92356,-63.79469,Roque Saenz Peña,Argentina,Americas,2023-02-23T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+346247,Influenza - Avian,;H5 HPAI;,-33.28476,-63.81225,Alejandro Roca,Argentina,Americas,2023-02-24T00:00:00Z,2023-02-27T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+346249,Influenza - Avian,;H5 HPAI;,-33.64521,-62.67214,Bell Ville,Argentina,Americas,2023-02-16T00:00:00Z,2023-02-27T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+347774,Influenza - Avian,;H5 HPAI;,-32.84639,-62.99188,IDIAZABAL,Argentina,Americas,2023-02-23T00:00:00Z,2023-03-09T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350021,Influenza - Avian,;H5 HPAI;,-30.33198,-63.98738,El Espinillo,Argentina,Americas,2023-03-22T00:00:00Z,2023-04-01T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350770,Influenza - Avian,;H5N1 HPAI;,47.351933,17.33417,Mez lak,Hungary,Europe,2023-04-06T00:00:00Z,2023-04-11T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+351721,Influenza - Avian,;H5 HPAI;,-28.36806,-58.25909,Tatacua,Argentina,Americas,2023-04-18T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+350077,Influenza - Avian,;H5 HPAI;,-27.39907,-58.67021,San Cosme,Argentina,Americas,2023-03-31T00:00:00Z,2023-04-03T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+349879,Influenza - Avian,;H5N1 HPAI;,43.211,-123.341,DOUGLAS COUNTY,United States of America,Americas,2023-03-04T00:00:00Z,2023-03-30T00:00:00Z,"Wild,Unspecified mammal,",OIE,,,Confirmed
+349874,Influenza - Avian,;H5N1 HPAI;,42.222,-121.784,KLAMATH COUNTY,United States of America,Americas,2023-03-18T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350485,Influenza - Avian,;H5N1 HPAI;,45.829,-119.274,Umatilla County,United States of America,Americas,2023-03-17T00:00:00Z,2023-04-06T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350888,Influenza - Avian,;H5N1 HPAI;,40.484,-78.008,HUNTINGDON COUNTY,United States of America,Americas,2023-04-01T00:00:00Z,2023-04-13T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+353167,Influenza - Avian,;H5 HPAI;,-25.36837,-58.265809,Riacho He He,Argentina,Americas,2023-05-02T00:00:00Z,2023-05-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351224,Influenza - Avian,;H5 HPAI;,-26.2965,-59.1817,Colonia Alba,Argentina,Americas,2023-04-09T00:00:00Z,2023-04-14T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352916,Influenza - Avian,;H5N1 HPAI;,41.448,-71.47,WASHINGTON COUNTY,United States of America,Americas,2023-04-24T00:00:00Z,2023-05-09T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+348378,Influenza - Avian,;H5 HPAI;,-36.69454,-64.31648,Toay,Argentina,Americas,2023-03-16T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Chicken,",National authorities,,,Confirmed
+347786,Influenza - Avian,;H5 HPAI;,-35.48092,-64.32964,Trenel,Argentina,Americas,2023-03-07T00:00:00Z,2023-03-10T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+349866,Influenza - Avian,;H5N1 HPAI;,44.871,-98.518,Spink County,United States of America,Americas,2023-03-14T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351806,Influenza - Avian,;H5N1 HPAI;,44.371,-98.234,BEADLE COUNTY,United States of America,Americas,2023-04-15T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351724,Influenza - Avian,;H5 HPAI;,-34.10899,-68.778496,Pareditas,Argentina,Americas,2023-04-19T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+349875,Influenza - Avian,;H5N1 HPAI;,34.181,-101.703,HALE COUNTY,United States of America,Americas,2023-03-12T00:00:00Z,2023-03-30T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352912,Influenza - Avian,;H5N1 HPAI;,25.750341,87.54004,"Agri Gold Farm, Kaliganj,",India,Asia,2023-04-13T00:00:00Z,2023-05-09T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352913,Influenza - Avian,;H5N1 HPAI;,25.262772,87.013378,"Regional Poultry Farm, Barari, Jagdishpir Ward 28",India,Asia,2023-03-17T00:00:00Z,2023-05-09T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+347232,Influenza - Avian,;H5 HPAI;,-39.0367,-68.4685,Senillosa,Argentina,Americas,2023-03-03T00:00:00Z,2023-03-06T00:00:00Z,"Domestic,Chicken,",National authorities,,,Confirmed
+347100,Influenza - Avian,;H5 HPAI;,-38.54855,-70.38195,Las Lajas,Argentina,Americas,2023-02-22T00:00:00Z,2023-03-05T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+351927,Influenza - Avian,;H5 HPAI;,-38.95667,-68.29917,Plottier,Argentina,Americas,2023-04-24T00:00:00Z,2023-04-25T00:00:00Z,"Domestic,Chicken,",National authorities,,,Confirmed
+349556,Influenza - Avian,;H5 HPAI;,-38.55845,-70.37815,Las Lajas,Argentina,Americas,2023-03-21T00:00:00Z,2023-03-28T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+346063,Influenza - Avian,;H5 HPAI;,-38.0528832,-70.349562,Laguna Blanca,Argentina,Americas,2023-02-18T00:00:00Z,2023-02-21T00:00:00Z,"Wild,red-gartered coot (Fulica armillata),",National authorities,,,Confirmed
+348054,Influenza - Avian,;H5 HPAI;,-38.55657,-70.37791,Las Lajas,Argentina,Americas,2023-03-08T00:00:00Z,2023-03-14T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348544,Influenza - Avian,;H5 HPAI;,-38.96685,-68.2701,PLOTTIER NEUQUEN- TRASPATIO - PLOTTIER,Argentina,Americas,2023-03-11T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349557,Influenza - Avian,;H5 HPAI;,-37.181053,-70.24798,CHAPUA,Argentina,Americas,2023-03-20T00:00:00Z,2023-03-28T00:00:00Z,"Domestic,Turkey,",OIE,,,Confirmed
+349554,Influenza - Avian,;H5 HPAI;,-38.598,-68.391,SAN PATRICIO DEL CHAÑAR,Argentina,Americas,2023-03-21T00:00:00Z,2023-03-28T00:00:00Z,"Wild,Black-necked swan (Cygnus melancoryphus),",OIE,,,Confirmed
+353171,Influenza - Avian,;H5 HPAI;,-38.97202,-68.32124,Plottier,Argentina,Americas,2023-05-04T00:00:00Z,2023-05-12T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+347783,Influenza - Avian,;H5 HPAI;,-38.5848,-68.34685,SAN PATRICIO DEL CHAÑAR,Argentina,Americas,2023-03-01T00:00:00Z,2023-03-09T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348546,Influenza - Avian,;H5 HPAI;,-38.556134,-70.37928,LAS LAJAS NEUQUEN- TRASPATIO - LAS LAJAS,Argentina,Americas,2023-03-13T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+348363,Influenza - Avian,;H5N1 HPAI;,1.266667,-77.366667,Playa El Morro,Colombia,Americas,2023-03-03T00:00:00Z,2023-03-15T00:00:00Z,"Wild,Brown pelican (Pelecanus occidentalis),",OIE,,,Confirmed
+347639,Influenza - Avian,;H5N1 HPAI;,1.34117,-77.39677,ZORAIDA,Colombia,Americas,2023-02-20T00:00:00Z,2023-03-08T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+353166,Influenza - Avian,;H5N1 HPAI;,49.971575,128.147218,Privol'noe,Russian Federation,Europe,2023-04-30T00:00:00Z,2023-05-12T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347785,Influenza - Avian,;H5 HPAI;,-39.04879,-67.31044,Mainqué,Argentina,Americas,2023-03-09T00:00:00Z,2023-03-10T00:00:00Z,"Domestic,Chicken,",National authorities,,,Confirmed
+349558,Influenza - Avian,;H5 HPAI;,-40.52014,-63.54515,Guardia Mitre,Argentina,Americas,2023-03-17T00:00:00Z,2023-03-28T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351492,Influenza - Avian,;H5 HPAI;,-40.76601,-63.29278,Viedma,Argentina,Americas,2023-04-16T00:00:00Z,2023-04-19T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+346744,Influenza - Avian,;H5 HPAI;,-39.03665,-67.3075,Mainque',Argentina,Americas,2023-02-26T00:00:00Z,2023-02-28T00:00:00Z,"Domestic,Chicken,",National authorities,,,Confirmed
+351225,Influenza - Avian,;H5 HPAI;,-38.888405,-64.413895,Rio Colorado,Argentina,Americas,2023-04-02T00:00:00Z,2023-04-14T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+346250,Influenza - Avian,;H5 HPAI;,-39.39435,-65.64608,Choele Choel,Argentina,Americas,2023-02-22T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+348558,Influenza - Avian,;H5 HPAI;,-38.99403,-67.77923,Allen,Argentina,Americas,2023-03-11T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+344868,Influenza - Avian,;H5 HPAI;,-24.8678,-65.3931,"La Isla, department of Cerrillos",Argentina,Americas,2023-02-16T00:00:00Z,2023-02-18T00:00:00Z,"Domestic,Chicken,Domestic,Chicken,",National authorities,,,Confirmed
+346197,Influenza - Avian,;H5 HPAI;,-33.24245,-66.88304,San Luis,Argentina,Americas,2023-02-22T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+348053,Influenza - Avian,;H5 HPAI;,-32.389,-65.096,Santa Rosa de Conlara,Argentina,Americas,2023-03-08T00:00:00Z,2023-03-14T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351697,Influenza - Avian,;H5N1 HPAI;,43.071,-89.384,DANE COUNTY,United States of America,Americas,2023-04-05T00:00:00Z,2023-04-20T00:00:00Z,"Wild,Red Fox,",OIE,,,Confirmed
+351723,Influenza - Avian,;H5 HPAI;,-51.51924,-72.18606,Rio Turbio,Argentina,Americas,2023-04-17T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+351725,Influenza - Avian,;H5 HPAI;,-51.58,-72,28 de Noviembre,Argentina,Americas,2023-04-17T00:00:00Z,2023-04-21T00:00:00Z,"Wild,Andean goose (Chloephaga melanoptera),",National authorities,,,Confirmed
+350480,Influenza - Avian,;H5N1 HPAI;,43.473,-110.761,TETON COUNTY,United States of America,Americas,2023-03-27T00:00:00Z,2023-04-06T00:00:00Z,"Wild,Cougar (Puma concolor),",OIE,,,Confirmed
+352914,Influenza - Avian,;H5N1 HPAI;,42.066,-104.183,GOSHEN COUNTY,United States of America,Americas,2023-04-03T00:00:00Z,2023-05-09T00:00:00Z,"Wild,Cougar (Puma concolor),",OIE,,,Confirmed
+350483,Influenza - Avian,;H5N1 HPAI;,43.647,-108.201,HOT SPRINGS COUNTY,United States of America,Americas,2023-03-22T00:00:00Z,2023-04-06T00:00:00Z,"Wild,Wild cat,",OIE,,,Confirmed
+347780,Influenza - Avian,;H5 HPAI;,-34.25012,-62.58456,RUFINO,Argentina,Americas,2023-02-22T00:00:00Z,2023-03-09T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+351925,Influenza - Avian,;H5 HPAI;,-33.73278,-61.92956,Venado Tuerto,Argentina,Americas,2023-03-27T00:00:00Z,2023-04-01T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348550,Influenza - Avian,;H5 HPAI;,-31.53552,-61.96289,ZENON PEREIRA SANTA FE- TRASPATIO - ZENON PEREIRA,Argentina,Americas,2023-03-11T00:00:00Z,2023-03-20T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349553,Influenza - Avian,;H5 HPAI;,-31.368,-61.052,Colonia Cavour,Argentina,Americas,2023-03-15T00:00:00Z,2023-03-28T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351924,Influenza - Avian,;H5 HPAI;,-30.502,-61.34395,Capivara,Argentina,Americas,2023-03-30T00:00:00Z,2023-04-01T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348052,Influenza - Avian,;H5 HPAI;,-32.5628,-61.2707,Totoiras,Argentina,Americas,2023-03-08T00:00:00Z,2023-03-14T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348056,Influenza - Avian,;H5 HPAI;,-32.28761,-61.46188,Centeno,Argentina,Americas,2023-02-20T00:00:00Z,2023-02-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347787,Influenza - Avian,;H5 HPAI;,-31.281576,-61.026789,Grutly,Argentina,Americas,2023-03-04T00:00:00Z,2023-03-10T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+344869,Influenza - Avian,;H5 HPAI;,-34.0043,-61.6175,VILLA CANAS,Argentina,Americas,2023-02-17T00:00:00Z,2023-02-19T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+347779,Influenza - Avian,;H5 HPAI;,-27.77411,-64.07527,BELTRAN,Argentina,Americas,2023-02-17T00:00:00Z,2023-03-09T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348234,Influenza - Avian,;H5 HPAI;,-34.5713,-55.7469,Canelones,Uruguay,Americas,2023-03-14T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black-necked swan (Cygnus melancoryphus),",OIE,,,Confirmed
+347104,Influenza - Avian,;H5 HPAI;,-33.3924,-55.8419,San Gregorio de Polanco in Tacuarembó ,Uruguay,Americas,2023-03-03T00:00:00Z,2023-03-04T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+353013,Influenza - Avian,;H5 HPAI;,-33.4961,-56.8232,Flores,Uruguay,Americas,2023-05-05T00:00:00Z,2023-05-09T00:00:00Z,"Wild,Coati (Gen. Nasua),",OIE,,,Confirmed
+350237,Influenza - Avian,;H5 HPAI;,-33.4985,-56.9171,Flores,Uruguay,Americas,2023-03-21T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black-necked swan (Cygnus melancoryphus),Wild,Indian Peafowl (Pavo cristatus),Wild,Great egret (Ardea alba),",OIE,,,Confirmed
+351811,Influenza - Avian,;H5N1 HPAI;,59.833,5.711,Sunde,Norway,Europe,2023-04-17T00:00:00Z,2023-04-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352501,Influenza - Avian,;H5 HPAI;,-34.7957,-54.9318,Maldonado,Uruguay,Americas,2023-05-03T00:00:00Z,2023-05-05T00:00:00Z,"Wild,Turkey vulture (Cathartes aura),Wild,Greylag Goose:Anser anser(Anatidae),",OIE,,,Confirmed
+351491,Influenza - Avian,;H5N1 HPAI;,63.11552,7.72421,Vanndamman,Norway,Europe,2023-03-28T00:00:00Z,2023-04-19T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347789,Influenza - Avian,;H5 HPAI;,-34.8012,-56.0987,Montevideo,Uruguay,Americas,2023-03-11T00:00:00Z,2023-03-11T00:00:00Z,"Domestic,Chicken,",National authorities,,,Confirmed
+351803,Influenza - Avian,;H5 HPAI;,-34.7852,-56.1287,Montevideo,Uruguay,Americas,2023-04-16T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351257,Influenza - Avian,;H5N1 HPAI;,54.711577,20.427752,Kaliningrad IK8,Russian Federation,Europe,2023-04-09T00:00:00Z,2023-04-18T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+352500,Influenza - Avian,;H5 HPAI;,-33.69,-54.0993,Rocha,Uruguay,Americas,2023-05-04T00:00:00Z,2023-05-05T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350236,Influenza - Avian,;H5 HPAI;,-34.7354,-56.4276,Ciudad del Plata,Uruguay,Americas,2023-03-31T00:00:00Z,2023-04-04T00:00:00Z,"Wild,Black-necked swan (Cygnus melancoryphus),",OIE,,,Confirmed
+351804,Influenza - Avian,;H5 HPAI;,-34.5526,-56.6724,San José,Uruguay,Americas,2023-04-15T00:00:00Z,2023-04-21T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351249,Influenza - Avian,;HPAI;,-34.265695,-56.773021,Puntas de Manantiales,Uruguay,Americas,,2023-04-17T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+350037,Influenza - Avian,;HPAI;,-34.338889,-56.710278,Playa Penino,Uruguay,Americas,,2023-03-31T00:00:00Z,"Wild,Black-necked swan (Cygnus melancoryphus),",National authorities,,,Confirmed
+350023,Influenza - Avian,;H5N1 HPAI;,43.0791,25.3568,Bulgaria,Bulgaria,Europe,2023-03-30T00:00:00Z,2023-04-01T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347112,Influenza - Avian,;H5N1 HPAI;,10.5578,-85.6914,Playas del Coco,Costa Rica,Americas,2023-02-16T00:00:00Z,2023-02-27T00:00:00Z,"Wild,Brown pelican (Pelecanus occidentalis),",OIE,,,Confirmed
+347113,Influenza - Avian,;H5N1 HPAI;,9.627,-84.607,Garabito,Costa Rica,Americas,2023-02-16T00:00:00Z,2023-02-27T00:00:00Z,"Wild,Brown pelican (Pelecanus occidentalis),",OIE,,,Confirmed
+350511,Influenza - Avian,;H5N1 HPAI;,47.801495,16.600979,Eisenstadt-Umgebung,Austria,Europe,2023-03-23T00:00:00Z,2023-04-07T00:00:00Z,"Wild,Columbidae (unidentified):Columbidae (incognita)(Columbidae),",OIE,,,Confirmed
+349160,Influenza - Avian,;H5N1 HPAI;,46.620993,14.254076,Klagenfurt am Wörthersee,Austria,Europe,2023-03-12T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348226,Influenza - Avian,;H5N1 HPAI;,46.570331,13.872991,VILLACH-LAND,Austria,Europe,2023-03-03T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Eurasian Sparrowhawk:Accipiter nisus(Accipitridae),",OIE,,,Confirmed
+352044,Influenza - Avian,;H5N1 HPAI;,48.176245,16.948769,BRUCK AN DER LEITHA,Austria,Europe,2023-04-07T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Goshawk,",OIE,,,Confirmed
+348223,Influenza - Avian,;H5N1 HPAI;,48.28152,16.36403,WIEN,Austria,Europe,2023-03-13T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348233,Influenza - Avian,;H5N1 HPAI;,48.300111,16.340328,TULLN,Austria,Europe,2023-02-27T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Grey Heron:Ardea cinerea(Ardeidae),",OIE,,,Confirmed
+348224,Influenza - Avian,;H5N1 HPAI;,48.40189,15.747302,KREMS-LAND,Austria,Europe,2023-03-12T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348232,Influenza - Avian,;H5N1 HPAI;,48.297106,16.34116,TULLN,Austria,Europe,2023-03-03T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+349321,Influenza - Avian,;H5N1 HPAI;,48.587049,7.790595,STRASBOURG (67482),France,Europe,2023-03-09T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349310,Influenza - Avian,;H5N1 HPAI;,47.6,7.515955,BLOTZHEIM (68042),France,Europe,2023-03-05T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349340,Influenza - Avian,;H5N1 HPAI;,45.679361,48.083722,Dal'nij Kordon,Russian Federation,Europe,2023-03-15T00:00:00Z,2023-03-27T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+352041,Influenza - Avian,;H5N1 HPAI;,48.308363,13.303894,RIED IM INNKREIS,Austria,Europe,2023-04-24T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352703,Influenza - Avian,;H5N1 HPAI;,48.257755,13.034043,Branau,Austria,Europe,2023-04-25T00:00:00Z,2023-05-08T00:00:00Z,"Wild,Falcon,",OIE,,,Confirmed
+348230,Influenza - Avian,;H5N1 HPAI;,47.91774,13.799693,GMUNDEN,Austria,Europe,2023-03-06T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352042,Influenza - Avian,;H5N1 HPAI;,48.283656,13.59262,RIED IM INNKREIS,Austria,Europe,2023-04-18T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348231,Influenza - Avian,;H5N1 HPAI;,47.917718,13.799704,GMUNDEN,Austria,Europe,2023-03-05T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349323,Influenza - Avian,;H5N1 HPAI;,44.168198,0.616765,BOÉ (47031),France,Europe,2023-03-03T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349306,Influenza - Avian,;H5N1 HPAI;,43.504237,-1.538861,ANGLET (64024),France,Europe,2023-03-13T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+346720,Influenza - Avian,;H5N1 HPAI;,37.8151,29.3012,Kocabas,Turkey,Asia,2023-02-23T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+348228,Influenza - Avian,;H5N1 HPAI;,47.942139,13.070565,SALZBURG-UMGEBUNG,Austria,Europe,2023-03-07T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349884,Influenza - Avian,;H5N1 HPAI;,47.820429,13.034035,SALZBURG,Austria,Europe,2023-03-27T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349887,Influenza - Avian,;H5N1 HPAI;,47.971594,13.079824,SALZBURG-UMGEBUNG,Austria,Europe,2023-03-18T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349888,Influenza - Avian,;H5N1 HPAI;,47.941618,13.072636,SALZBURG-UMGEBUNG,Austria,Europe,2023-03-18T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+348227,Influenza - Avian,;H5N1 HPAI;,47.943278,13.208764,SALZBURG-UMGEBUNG,Austria,Europe,2023-03-07T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350116,Influenza - Avian,;H5N1 HPAI;,49.6197,-1.2567,Réville (50433),France,Europe,2023-03-13T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352000,Influenza - Avian,;H5N1 HPAI;,60.597446,15.614241,Falun,Sweden,Europe,2023-04-04T00:00:00Z,2023-04-26T00:00:00Z,"Wild,Eurasian Eagle-Owl:Bubo bubo(Strigidae),",OIE,,,Confirmed
+350079,Influenza - Avian,;H5N1 HPAI;,15.741078,-16.5236599,Potou,Senegal,Africa,2023-03-18T00:00:00Z,2023-03-29T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+348229,Influenza - Avian,;H5N1 HPAI;,47.261801,11.37674,INNSBRUCK,Austria,Europe,2023-03-06T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Buzzard,",OIE,,,Confirmed
+349889,Influenza - Avian,;H5N1 HPAI;,47.491892,9.662304,BREGENZ,Austria,Europe,2023-03-17T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+352702,Influenza - Avian,;H5N1 HPAI;,47.51065,9.655695,Bregenz,Austria,Europe,2023-04-28T00:00:00Z,2023-05-08T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349885,Influenza - Avian,;H5N1 HPAI;,47.532347,9.732673,BREGENZ,Austria,Europe,2023-03-21T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Great Cormorant (Phalacrocorax carbo),",OIE,,,Confirmed
+351220,Influenza - Avian,;H5N1 HPAI;,48.315536,-1.764242,HÉDÉ-BAZOUGES (35130),France,Europe,2023-03-20T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+347185,Influenza - Avian,;H5N1 HPAI;,48.43652,-3.0763, Senven-LÃ©hart (22335) ,France,Europe,2023-02-20T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347184,Influenza - Avian,;H5N1 HPAI;,48.465314,-3.075047,Saint-PÃ©ver (22322),France,Europe,2023-02-17T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349307,Influenza - Avian,;H5N1 HPAI;,47.83696,-1.679459,BAIN-DE-BRETAGNE (35012),France,Europe,2023-03-09T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350011,Influenza - Avian,;H5N1 HPAI;,48.23033,-1.181208,Châtillon-en-Vendelais (35072),France,Europe,2023-03-16T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350012,Influenza - Avian,;H5N1 HPAI;,48.101525,-1.156363,Erbrée (35105),France,Europe,2023-03-16T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+347181,Influenza - Avian,;H5N1 HPAI;,48.467698,-3.066973, Saint-PÃ©ver (22322) ,France,Europe,2023-02-22T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347177,Influenza - Avian,;H5N1 HPAI;,48.41938,-3.092655, Saint-Connan (22284) ,France,Europe,2023-02-21T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347179,Influenza - Avian,;H5N1 HPAI;,48.466678,-3.082941, Saint-PÃ©ver (22322) ,France,Europe,2023-02-22T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347180,Influenza - Avian,;H5N1 HPAI;,48.415811,-3.037782,Saint-Connan (22284),France,Europe,2023-02-16T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351219,Influenza - Avian,;H5N1 HPAI;,48.513507,-1.512679,SOUGÉAL (35329),France,Europe,2023-03-25T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+347182,Influenza - Avian,;H5N1 HPAI;,48.368249,-3.105446, Saint-Gilles-Pligeaux (22294) ,France,Europe,2023-02-18T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350010,Influenza - Avian,;H5N1 HPAI;,48.143646,-1.248487,Montreuil-sous-Pérouse (35194),France,Europe,2023-03-17T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+347178,Influenza - Avian,;H5N1 HPAI;,48.438304,-3.067383, Senven-LÃ©hart (22335) ,France,Europe,2023-02-22T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347809,Influenza - Avian,;H5N1 HPAI;,15.8662803,-16.510103,National Park of Langue de Barbarie,Senegal,Africa,2023-03-08T00:00:00Z,2023-03-13T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",FAO officer,,,Confirmed
+349886,Influenza - Avian,;H5N1 HPAI;,48.17382,16.46288,WIEN,Austria,Europe,2023-03-21T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+350510,Influenza - Avian,;H5N1 HPAI;,48.173933,16.462827,Wien,Austria,Europe,2023-04-03T00:00:00Z,2023-04-06T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+352043,Influenza - Avian,;H5N1 HPAI;,48.173527,16.462278,WIEN,Austria,Europe,2023-04-11T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+352040,Influenza - Avian,;H5N1 HPAI;,48.19819,16.46783,WIEN,Austria,Europe,2023-04-24T00:00:00Z,2023-04-28T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349159,Influenza - Avian,;H5N1 HPAI;,48.17852,16.44297,Wien,Austria,Europe,2023-03-13T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349157,Influenza - Avian,;H5N1 HPAI;,48.17386,16.46291,Wien,Austria,Europe,2023-03-17T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348225,Influenza - Avian,;H5N1 HPAI;,48.1746,16.46575,WIEN,Austria,Europe,2023-03-09T00:00:00Z,2023-03-17T00:00:00Z,"Wild,Falcon,",OIE,,,Confirmed
+349882,Influenza - Avian,;H5N1 HPAI;,48.20013,16.41478,WIEN,Austria,Europe,2023-03-28T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349883,Influenza - Avian,;H5N1 HPAI;,48.17385,16.46295,WIEN,Austria,Europe,2023-03-27T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Laridae (unidentified):Laridae (incognita)(Laridae),",OIE,,,Confirmed
+349158,Influenza - Avian,;H5N1 HPAI;,48.17392,16.46298,Wien,Austria,Europe,2023-03-14T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349161,Influenza - Avian,;H5N1 HPAI;,48.460134,1.310886,Saint-Aubin-des-Bois (28325),France,Europe,2023-03-10T00:00:00Z,2023-03-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349322,Influenza - Avian,;H5N1 HPAI;,47.040368,2.63659,AVORD (18018),France,Europe,2023-03-02T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351222,Influenza - Avian,;H5N1 HPAI;,48.618872,1.170999,ISIGNY-LE-BUAT (50256),France,Europe,2023-03-06T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Herring Gull:Larus argentatus(Laridae),",OIE,,,Confirmed
+351914,Influenza - Avian,;H5N1 HPAI;,48.460134,1.310886,Saint-Aubin-des-Bois (28325),France,Europe,2023-03-10T00:00:00Z,2023-04-26T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349326,Influenza - Avian,;H5N1 HPAI;,47.858773,2.886873,SAINT-MAURICE-SUR-AVEYRON (45292),France,Europe,2023-03-09T00:00:00Z,2023-03-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+351216,Influenza - Avian,;H5N1 HPAI;,47.59022,1.345095,BLOIS (41018),France,Europe,2023-03-29T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351221,Influenza - Avian,;H5N1 HPAI;,47.867655,1.786327,SAINT-MALO-DE-PHILY (35289),France,Europe,2023-03-13T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+350473,Influenza - Avian,;H5N1 HPAI;,56.7778,16.4015,KALMAR,Sweden,Europe,2023-03-30T00:00:00Z,2023-04-05T00:00:00Z,"Wild,Greylag Goose:Anser anser(Anatidae),",OIE,,,Confirmed
+351217,Influenza - Avian,;H5N1 HPAI;,50.062206,1.368352,LE TRÉPORT (76711) TYPE *,France,Europe,2023-03-25T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351218,Influenza - Avian,;H5N1 HPAI;,49.871393,0.702253,SAINT-VALERY-EN-CAUX (76655),France,Europe,2023-03-28T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349315,Influenza - Avian,;H5N1 HPAI;,48.973856,2.299682,ENGHIEN-LES-BAINS (95210),France,Europe,2023-03-04T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349324,Influenza - Avian,;H5N1 HPAI;,48.976831,2.297678,SOISY-SOUS-MONTMORENCY (95598),France,Europe,2023-03-03T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349408,Influenza - Avian,;H5N1 HPAI;,43.35,3.216667,MARSEILLAN (34150),France,Europe,2023-03-01T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+346791,Influenza - Avian,;H5N1 HPAI;,22.211769,-102.335514,Rincón de Romos,Mexico,Americas,,2023-03-02T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+346790,Influenza - Avian,;H5N1 HPAI;,22.116,-102.109,Asientos,Mexico,Americas,,2023-03-02T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+350841,Influenza - Avian,;H5N1 HPAI;,55.889274,14.20293,"Pulken, Yngsjö",Sweden,Europe,2023-03-28T00:00:00Z,2023-04-12T00:00:00Z,"Wild,Barnacle Goose:Branta leucopsis(Anatidae),",OIE,,,Confirmed
+352704,Influenza - Avian,;H5N1 HPAI;,56.004995,14.260424,kristianstad,Sweden,Europe,2023-04-07T00:00:00Z,2023-05-08T00:00:00Z,"Wild,White Stork:Ciconia ciconia(Ciconiidae),",OIE,,,Confirmed
+350769,Influenza - Avian,;H5N1 HPAI;,55.889274,14.20293,"Pulken, Yngsjö",Sweden,Europe,2023-03-28T00:00:00Z,2023-04-12T00:00:00Z,"Wild,Barnacle Goose:Branta leucopsis(Anatidae),",OIE,,,Confirmed
+347557,Influenza - Avian,;H5N5 HPAI;,55.410787,12.852439,Vellinge,Sweden,Europe,2023-02-19T00:00:00Z,2023-03-02T00:00:00Z,"Wild,Barnacle Goose:Branta leucopsis(Anatidae),",OIE,,,Confirmed
+346715,Influenza - Avian,;H5N1 HPAI;,55.728367,13.463897,Lund,Sweden,Europe,2023-02-18T00:00:00Z,2023-02-23T00:00:00Z,"Wild,Whooper Swan:Cygnus cygnus(Anatidae),",OIE,,,Confirmed
+348906,Influenza - Avian,;H5N1 HPAI;,55.777073,13.012336,Kävlinge,Sweden,Europe,2023-03-20T00:00:00Z,2023-03-22T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350786,Influenza - Avian,;H5N1 HPAI;,55.889274,14.20293,"Pulken, Yngsjö",Sweden,Europe,2023-03-28T00:00:00Z,2023-04-12T00:00:00Z,"Wild,Barnacle Goose:Branta leucopsis(Anatidae),",OIE,,,Confirmed
+349308,Influenza - Avian,;H5N1 HPAI;,49.172808,6.20364,LA MAXE (57452),France,Europe,2023-03-16T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349311,Influenza - Avian,;H5N1 HPAI;,48.909786,6.042629,PONT-À-MOUSSON (54431),France,Europe,2023-03-09T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349301,Influenza - Avian,;H5N1 HPAI;,48.67527,5.895174,TOUL (54528),France,Europe,2023-03-15T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Peregrin falcon:Falco peregrinus(Falconidae),",OIE,,,Confirmed
+347176,Influenza - Avian,;H5N1 HPAI;,43.987776,0.805344, Peyrecave (32314) ,France,Europe,2023-02-22T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+347183,Influenza - Avian,;H5N1 HPAI;,44.006705,0.83799, Mansonville (82102) ,France,Europe,2023-02-16T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349325,Influenza - Avian,;H5N1 HPAI;,43.613202,1.431553,TOULOUSE (31555),France,Europe,2023-03-01T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350817,Influenza - Avian,;HPAI;,-7.306041,109.852467,Jawa Tengah,Indonesia,Asia,,2023-04-13T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+352700,Influenza - Avian,;H5N1 HPAI;,55.876128,26.50734,Daugavpils,Latvia,Europe,2023-05-04T00:00:00Z,2023-05-06T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348947,Influenza - Avian,;H5N1 HPAI;,8.49227,-79.94976,Vistamar,Panama,Americas,2023-03-10T00:00:00Z,2023-03-14T00:00:00Z,"Wild,Brown pelican (Pelecanus occidentalis),",OIE,,,Confirmed
+347115,Influenza - Avian,;H5N1 HPAI;,50.635118,2.259152, ThÃ©rouanne (62811) ,France,Europe,2023-02-16T00:00:00Z,2023-02-24T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+349312,Influenza - Avian,;H5N1 HPAI;,50.799925,2.691315,BOESCHEPE (59086),France,Europe,2023-03-10T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349320,Influenza - Avian,;H5N1 HPAI;,50.345852,3.554664,MARLY (59383),France,Europe,2023-03-09T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350009,Influenza - Avian,;H5N1 HPAI;,47.07494,-1.680917,Saint-Philbert-de-Grand-Lieu (44188),France,Europe,2023-03-22T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349303,Influenza - Avian,;H5N1 HPAI;,48.156566,-0.387095,ÉVRON (53097),France,Europe,2023-03-14T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349318,Influenza - Avian,;H5N1 HPAI;,48.118545,-0.911551,LE GENEST-SAINT-ISLE (53103),France,Europe,2023-03-03T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349314,Influenza - Avian,;H5N1 HPAI;,48.289444,-0.53759,ARON (53008),France,Europe,2023-03-01T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350008,Influenza - Avian,;H5N1 HPAI;,48.200224,-0.432795,Mézangers (53153),France,Europe,2023-03-13T00:00:00Z,2023-03-31T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349313,Influenza - Avian,;H5N1 HPAI;,48.237441,-0.50993,JUBLAINS (53122),France,Europe,2023-03-08T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349319,Influenza - Avian,;H5N1 HPAI;,47.86611,-1.057263,LA SELLE-CRAONNAISE (53258),France,Europe,2023-03-04T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349316,Influenza - Avian,;H5N1 HPAI;,47.990279,0.235837,LE MANS (72181),France,Europe,2023-03-07T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349317,Influenza - Avian,;H5N1 HPAI;,48.102139,0.782802,CHANGÉ (53054),France,Europe,2023-03-13T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351393,Influenza - Avian,;H5N1 HPAI;,50.281664,1.566095,SAINT-QUENTIN-EN-TOURMONT (80713),France,Europe,2023-03-23T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349305,Influenza - Avian,;H5N1 HPAI;,49.840644,4.179023,LEUZE (02425),France,Europe,2023-03-07T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351215,Influenza - Avian,;H5N1 HPAI;,49.37613,3.325013,SOISSONS (02722),France,Europe,2023-03-27T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349304,Influenza - Avian,;H5N1 HPAI;,49.608229,3.226074,CHAUNY (02173),France,Europe,2023-03-07T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+353164,Influenza - Avian,;H5N1 HPAI;,-2.412129,115.237907,Kalimantan Selatan,Indonesia,Asia,2023-04-05T00:00:00Z,2023-05-12T00:00:00Z,"Domestic,Duck,",OIE,,,Confirmed
+352926,Influenza - Avian,;H5N1 HPAI;,55.89364,27.159534,Kraslava,Latvia,Europe,2023-05-08T00:00:00Z,2023-05-11T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351223,Influenza - Avian,;H5N1 HPAI;,44.903449,4.865644,VALENCE (26362),France,Europe,2023-03-13T00:00:00Z,2023-04-14T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349309,Influenza - Avian,;H5N1 HPAI;,45.980786,5.086397,VERSAILLEUX (01434),France,Europe,2023-03-10T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+349302,Influenza - Avian,;H5N1 HPAI;,45.065023,5.707286,CHAMP-SUR-DRAC (38071),France,Europe,2023-03-09T00:00:00Z,2023-03-24T00:00:00Z,"Wild,Mallard:Anas platyrhynchos(Anatidae),",OIE,,,Confirmed
+350818,Influenza - Avian,;HPAI;,-4.834193,105.11369,Lampung,Indonesia,Asia,,2023-04-13T00:00:00Z,"Domestic,Unspecified bird,",National authorities,,,Confirmed
+347879,Influenza - Avian,;H5N1 HPAI;,-0.309626,-78.311024,SAN FRANCISCO,Ecuador,Americas,2023-02-28T00:00:00Z,2023-03-13T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+348932,Influenza - Avian,;H5N1 HPAI;,47.28,8.206,HALLWILERSEE,Switzerland,Europe,2023-03-13T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348589,Influenza - Avian,;H5N1 HPAI;,47.291,8.212,HALWILERSEE,Switzerland,Europe,2023-03-07T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Mute Swan:Cygnus olor(Anatidae),",OIE,,,Confirmed
+348928,Influenza - Avian,;H5N1 HPAI;,47.137,7.242,BIEL,Switzerland,Europe,2023-03-14T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348603,Influenza - Avian,;H5N1 HPAI;,47.152,7.535,KRÄILIGEN,Switzerland,Europe,2023-03-02T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+348918,Influenza - Avian,;H5N1 HPAI;,47.123,7.254,PORT,Switzerland,Europe,2023-03-15T00:00:00Z,2023-03-23T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+351759,Influenza - Avian,;HPAI;,10.44,-14.56,Kapatchez island,Guinea,Africa,2023-04-20T00:00:00Z,2023-04-23T00:00:00Z,"Wild,Unspecified bird,",FAO officer,,,Confirmed
+348580,Influenza - Avian,;H5N1 HPAI;,46.931,7.116,MURTEN,Switzerland,Europe,2023-03-03T00:00:00Z,2023-03-16T00:00:00Z,"Wild,Black headed gull (Chroicocephalus ridibundus),",OIE,,,Confirmed
+350491,Influenza - Avian,;H5N1 HPAI;,-17.60369,-65.871988,VILLA RIVERO_OBT8MAYO,Bolivia,Americas,2023-02-25T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350492,Influenza - Avian,;H5N1 HPAI;,-17.517776,-65.874281,SAN BENITO_VIARANCHO,Bolivia,Americas,2023-02-27T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350502,Influenza - Avian,;H5N1 HPAI;,-17.35356,-66.268178,QUILLACOLLO_11,Bolivia,Americas,2023-02-23T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350498,Influenza - Avian,;H5N1 HPAI;,-17.441848,-66.010445,SACABA_12,Bolivia,Americas,2023-03-05T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350501,Influenza - Avian,;H5N1 HPAI;,-17.476893,-66.334499,SIPE SIPE,Bolivia,Americas,2023-03-01T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350486,Influenza - Avian,;H5N1 HPAI;,-17.325552,-66.243351,QUILLACOLLO_APOTE,Bolivia,Americas,2023-03-06T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350489,Influenza - Avian,;H5N1 HPAI;,-17.602726,-65.977463,TARATA_PAMPAMANATA,Bolivia,Americas,2023-03-17T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350497,Influenza - Avian,;H5N1 HPAI;,-17.437881,-65.983596,SACABA_13,Bolivia,Americas,2023-03-20T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350487,Influenza - Avian,;H5N1 HPAI;,-17.330978,-66.26602,QUILLACOLLO_PASO,Bolivia,Americas,2023-03-01T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350500,Influenza - Avian,;H5N1 HPAI;,-17.40567,-65.96186,SACABA11,Bolivia,Americas,2023-03-02T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350503,Influenza - Avian,;H5N1 HPAI;,-17.32277,-66.24143,QUILLACOLLO10,Bolivia,Americas,2023-02-17T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Chicken,",OIE,,,Confirmed
+350490,Influenza - Avian,;H5N1 HPAI;,-17.556861,-65.945812,CLIZA_VILLAFLORIDA,Bolivia,Americas,2023-02-25T00:00:00Z,2023-04-07T00:00:00Z,"Domestic,Unspecified bird,",OIE,,,Confirmed
+350509,Influenza - Avian,;H5N1 HPAI;,45.486594,44.684249,Podmanok,Russian Federation,Europe,2023-04-01T00:00:00Z,2023-04-07T00:00:00Z,"Wild,Pelecanidae (unidentified):Pelecanidae (incognita)(Pelecanidae),",OIE,,,Confirmed
+352357,Influenza - Avian,;H5 HPAI;,-29.7,30.5,HPAI_H5_W_2023_006,South Africa,Africa,2023-03-08T00:00:00Z,2023-05-04T00:00:00Z,"Environmental sample,Unspecified bird,",OIE,,,Confirmed
+352358,Influenza - Avian,;H5 HPAI;,-29.8,30.4,HPAI_H5_W_2023_005,South Africa,Africa,2023-03-10T00:00:00Z,2023-05-04T00:00:00Z,"Environmental sample,Unspecified bird,",OIE,,,Confirmed
+352356,Influenza - Avian,;H5 HPAI;,-29.6,30.4,HPAI_H5_W_2023_007,South Africa,Africa,2023-03-09T00:00:00Z,2023-05-04T00:00:00Z,"Environmental sample,Unspecified bird,",OIE,,,Confirmed
